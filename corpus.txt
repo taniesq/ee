@@ -1,0 +1,5000 @@
+an apple should eat a pear
+an apple must eat the orange
+an apple has to eat this house
+an apple cannot eat that farm
+an apple can eat a cow
+an apple eats the goat
+an apple ate this sheep
+an apple will eat that chicken
+an apple has eaten a hen
+an apple should jump over the pig
+the apple must jump over this human
+the apple has to jump over that star
+the apple cannot jump over a planet
+the apple can jump over the robot
+the apple jumps over this pea
+the apple jumped over that book
+the apple will jump over a shoe
+the apple has jumped over the sock
+the apple should drink this hook
+the apple must drink that needle
+this apple has to drink a yarn
+this apple cannot drink the sunhat
+this apple can drink this car
+this apple drinks that doll
+this pear drank an apple
+this pear will drink the orange
+this pear has drank this house
+this pear should drown in that farm
+this pear must drown in a cow
+this pear has to drown in the goat
+that pear cannot drown in this sheep
+that pear can drown in that chicken
+that pear drowns in a hen
+that pear drowned in the pig
+that pear will drown in this human
+that pear has drowned in that star
+that pear should swim across a planet
+that pear must swim across the robot
+that pear has to swim across this pea
+that pear cannot swim across that book
+a pear can swim across a shoe
+a pear swims across the sock
+a pear swam across this hook
+a pear will swim across that needle
+a pear has swum across a yarn
+a pear should dance with the sunhat
+a pear must dance with this car
+a pear has to dance with that doll
+an orange cannot dance with an apple
+an orange can dance with the pear
+the orange dances with this house
+the orange danced with that farm
+the orange will dance with a cow
+the orange has danced with the goat
+the orange should throw this sheep
+the orange must throw that chicken
+the orange has to throw a hen
+the orange cannot throw the pig
+the orange can throw this human
+the orange throws that star
+this orange threw a planet
+this orange will throw the robot
+this orange has thrown this pea
+this orange should paint that book
+this orange must paint a shoe
+this orange has to paint the sock
+this orange cannot paint this hook
+this orange can paint that needle
+this orange paints a yarn
+this orange painted the sunhat
+that orange will paint this car
+that orange has painted that doll
+that house should draw an apple
+that house must draw the pear
+that house has to draw this orange
+that house cannot draw that farm
+that house can draw a cow
+that house draws the goat
+that house drew this sheep
+that house will draw that chicken
+a house has drawn a hen
+a house should squeeze the pig
+a house must squeeze this human
+a house has to squeeze that star
+a house cannot squeeze a planet
+a house can squeeze the robot
+a house squeezes this pea
+a house squeezed that book
+a house will squeeze a shoe
+a house has squeezed the sock
+the house should create this hook
+the house must create that needle
+the house has to create a yarn
+the house cannot create the sunhat
+the house can create this car
+the house creates that doll
+the farm created an apple
+the farm will create the pear
+the farm has created this orange
+the farm should speak to that house
+this farm must speak to a cow
+this farm has to speak to the goat
+this farm cannot speak to this sheep
+this farm can speak to that chicken
+this farm speaks to a hen
+this farm spoke to the pig
+this farm will speak to this human
+this farm has spoken to that star
+this farm should play with a planet
+this farm must play with the robot
+that farm has to play with this pea
+that farm cannot play with that book
+that farm can play with a shoe
+that farm plays with the sock
+that farm played with this hook
+that farm will play with that needle
+that farm has played with a yarn
+that farm should hold the sunhat
+that farm must hold this car
+that farm has to hold that doll
+a cow cannot hold an apple
+a cow can hold the pear
+a cow holds this orange
+a cow held that house
+a cow will hold a farm
+a cow has held the goat
+a cow should craft this sheep
+a cow must craft that chicken
+a cow has to craft a hen
+a cow cannot craft the pig
+the cow can craft this human
+the cow crafts that star
+the cow crafted a planet
+the cow will craft the robot
+the cow has crafted this pea
+the cow should dress that book
+the cow must dress a shoe
+the cow has to dress the sock
+the cow cannot dress this hook
+the cow can dress that needle
+this cow dresses a yarn
+this cow dressed the sunhat
+this cow will dress this car
+this cow has dressed that doll
+this goat should twirl around an apple
+this goat must twirl around the pear
+this goat has to twirl around this orange
+this goat cannot twirl around that house
+this goat can twirl around a farm
+this goat twirls around the cow
+that goat twirled around this sheep
+that goat will twirl around that chicken
+that goat has twirled around a hen
+that goat should orbit the pig
+that goat must orbit this human
+that goat has to orbit that star
+that goat cannot orbit a planet
+that goat can orbit the robot
+that goat orbits this pea
+that goat orbited that book
+a goat will orbit a shoe
+a goat has orbited the sock
+a goat should multiply this hook
+a goat must multiply that needle
+a goat has to multiply a yarn
+a goat cannot multiply the sunhat
+a goat can multiply this car
+a goat multiplies that doll
+a sheep multiplied an apple
+a sheep will multiply the pear
+the sheep has multiplied this orange
+the sheep should admire that house
+the sheep must admire a farm
+the sheep has to admire the cow
+the sheep cannot admire this goat
+the sheep can admire that chicken
+the sheep admires a hen
+the sheep admired the pig
+the sheep will admire this human
+the sheep has admired that star
+this sheep should pull a planet
+this sheep must pull the robot
+this sheep has to pull this pea
+this sheep cannot pull that book
+this sheep can pull a shoe
+this sheep pulls the sock
+this sheep pulled this hook
+this sheep will pull that needle
+this sheep has pulled a yarn
+this sheep should write the sunhat
+that sheep must write this car
+that sheep has to write that doll
+that chicken cannot write an apple
+that chicken can write the pear
+that chicken writes this orange
+that chicken wrote that house
+that chicken will write a farm
+that chicken has written the cow
+that chicken should eat this goat
+that chicken must eat that sheep
+a chicken has to eat a hen
+a chicken cannot eat the pig
+a chicken can eat this human
+a chicken eats that star
+a chicken ate a planet
+a chicken will eat the robot
+a chicken has eaten this pea
+a chicken should jump over that book
+a chicken must jump over a shoe
+a chicken has to jump over the sock
+the chicken cannot jump over this hook
+the chicken can jump over that needle
+the chicken jumps over a yarn
+the chicken jumped over the sunhat
+the chicken will jump over this car
+the chicken has jumped over that doll
+the hen should drink an apple
+the hen must drink the pear
+the hen has to drink this orange
+the hen cannot drink that house
+this hen can drink a farm
+this hen drinks the cow
+this hen drank this goat
+this hen will drink that sheep
+this hen has drank a chicken
+this hen should drown in the pig
+this hen must drown in this human
+this hen has to drown in that star
+this hen cannot drown in a planet
+this hen can drown in the robot
+that hen drowns in this pea
+that hen drowned in that book
+that hen will drown in a shoe
+that hen has drowned in the sock
+that hen should swim across this hook
+that hen must swim across that needle
+that hen has to swim across a yarn
+that hen cannot swim across the sunhat
+that hen can swim across this car
+that hen swims across that doll
+a pig swam across an apple
+a pig will swim across the pear
+a pig has swum across this orange
+a pig should dance with that house
+a pig must dance with a farm
+a pig has to dance with the cow
+a pig cannot dance with this goat
+a pig can dance with that sheep
+a pig dances with a chicken
+a pig danced with the hen
+the pig will dance with this human
+the pig has danced with that star
+the pig should throw a planet
+the pig must throw the robot
+the pig has to throw this pea
+the pig cannot throw that book
+the pig can throw a shoe
+the pig throws the sock
+the pig threw this hook
+the pig will throw that needle
+this pig has thrown a yarn
+this pig should paint the sunhat
+this pig must paint this car
+this pig has to paint that doll
+this human cannot paint an apple
+this human can paint the pear
+this human paints this orange
+this human painted that house
+this human will paint a farm
+this human has painted the cow
+that human should draw this goat
+that human must draw that sheep
+that human has to draw a chicken
+that human cannot draw the hen
+that human can draw this pig
+that human draws that star
+that human drew a planet
+that human will draw the robot
+that human has drawn this pea
+that human should squeeze that book
+a human must squeeze a shoe
+a human has to squeeze the sock
+a human cannot squeeze this hook
+a human can squeeze that needle
+a human squeezes a yarn
+a human squeezed the sunhat
+a human will squeeze this car
+a human has squeezed that doll
+a star should create an apple
+a star must create the pear
+the star has to create this orange
+the star cannot create that house
+the star can create a farm
+the star creates the cow
+the star created this goat
+the star will create that sheep
+the star has created a chicken
+the star should speak to the hen
+the star must speak to this pig
+the star has to speak to that human
+this star cannot speak to a planet
+this star can speak to the robot
+this star speaks to this pea
+this star spoke to that book
+this star will speak to a shoe
+this star has spoken to the sock
+this star should play with this hook
+this star must play with that needle
+this star has to play with a yarn
+this star cannot play with the sunhat
+that star can play with this car
+that star plays with that doll
+that planet played with an apple
+that planet will play with the pear
+that planet has played with this orange
+that planet should hold that house
+that planet must hold a farm
+that planet has to hold the cow
+that planet cannot hold this goat
+that planet can hold that sheep
+a planet holds a chicken
+a planet held the hen
+a planet will hold this pig
+a planet has held that human
+a planet should craft a star
+a planet must craft the robot
+a planet has to craft this pea
+a planet cannot craft that book
+a planet can craft a shoe
+a planet crafts the sock
+the planet crafted this hook
+the planet will craft that needle
+the planet has crafted a yarn
+the planet should dress the sunhat
+the planet must dress this car
+the planet has to dress that doll
+the robot cannot dress an apple
+the robot can dress the pear
+the robot dresses this orange
+the robot dressed that house
+this robot will dress a farm
+this robot has dressed the cow
+this robot should twirl around this goat
+this robot must twirl around that sheep
+this robot has to twirl around a chicken
+this robot cannot twirl around the hen
+this robot can twirl around this pig
+this robot twirls around that human
+this robot twirled around a star
+this robot will twirl around the planet
+that robot has twirled around this pea
+that robot should orbit that book
+that robot must orbit a shoe
+that robot has to orbit the sock
+that robot cannot orbit this hook
+that robot can orbit that needle
+that robot orbits a yarn
+that robot orbited the sunhat
+that robot will orbit this car
+that robot has orbited that doll
+a pea should multiply an apple
+a pea must multiply the pear
+a pea has to multiply this orange
+a pea cannot multiply that house
+a pea can multiply a farm
+a pea multiplies the cow
+a pea multiplied this goat
+a pea will multiply that sheep
+a pea has multiplied a chicken
+a pea should admire the hen
+the pea must admire this pig
+the pea has to admire that human
+the pea cannot admire a star
+the pea can admire the planet
+the pea admires this robot
+the pea admired that book
+the pea will admire a shoe
+the pea has admired the sock
+the pea should pull this hook
+the pea must pull that needle
+this pea has to pull a yarn
+this pea cannot pull the sunhat
+this pea can pull this car
+this pea pulls that doll
+this book pulled an apple
+this book will pull the pear
+this book has pulled this orange
+this book should write that house
+this book must write a farm
+this book has to write the cow
+that book cannot write this goat
+that book can write that sheep
+that book writes a chicken
+that book wrote the hen
+that book will write this pig
+that book has written that human
+that book should eat a star
+that book must eat the planet
+that book has to eat this robot
+that book cannot eat that pea
+a book can eat a shoe
+a book eats the sock
+a book ate this hook
+a book will eat that needle
+a book has eaten a yarn
+a book should jump over the sunhat
+a book must jump over this car
+a book has to jump over that doll
+a shoe cannot jump over an apple
+a shoe can jump over the pear
+the shoe jumps over this orange
+the shoe jumped over that house
+the shoe will jump over a farm
+the shoe has jumped over the cow
+the shoe should drink this goat
+the shoe must drink that sheep
+the shoe has to drink a chicken
+the shoe cannot drink the hen
+the shoe can drink this pig
+the shoe drinks that human
+this shoe drank a star
+this shoe will drink the planet
+this shoe has drank this robot
+this shoe should drown in that pea
+this shoe must drown in a book
+this shoe has to drown in the sock
+this shoe cannot drown in this hook
+this shoe can drown in that needle
+this shoe drowns in a yarn
+this shoe drowned in the sunhat
+that shoe will drown in this car
+that shoe has drowned in that doll
+that sock should swim across an apple
+that sock must swim across the pear
+that sock has to swim across this orange
+that sock cannot swim across that house
+that sock can swim across a farm
+that sock swims across the cow
+that sock swam across this goat
+that sock will swim across that sheep
+a sock has swum across a chicken
+a sock should dance with the hen
+a sock must dance with this pig
+a sock has to dance with that human
+a sock cannot dance with a star
+a sock can dance with the planet
+a sock dances with this robot
+a sock danced with that pea
+a sock will dance with a book
+a sock has danced with the shoe
+the sock should throw this hook
+the sock must throw that needle
+the sock has to throw a yarn
+the sock cannot throw the sunhat
+the sock can throw this car
+the sock throws that doll
+the hook threw an apple
+the hook will throw the pear
+the hook has thrown this orange
+the hook should paint that house
+this hook must paint a farm
+this hook has to paint the cow
+this hook cannot paint this goat
+this hook can paint that sheep
+this hook paints a chicken
+this hook painted the hen
+this hook will paint this pig
+this hook has painted that human
+this hook should draw a star
+this hook must draw the planet
+that hook has to draw this robot
+that hook cannot draw that pea
+that hook can draw a book
+that hook draws the shoe
+that hook drew this sock
+that hook will draw that needle
+that hook has drawn a yarn
+that hook should squeeze the sunhat
+that hook must squeeze this car
+that hook has to squeeze that doll
+a needle cannot squeeze an apple
+a needle can squeeze the pear
+a needle squeezes this orange
+a needle squeezed that house
+a needle will squeeze a farm
+a needle has squeezed the cow
+a needle should create this goat
+a needle must create that sheep
+a needle has to create a chicken
+a needle cannot create the hen
+the needle can create this pig
+the needle creates that human
+the needle created a star
+the needle will create the planet
+the needle has created this robot
+the needle should speak to that pea
+the needle must speak to a book
+the needle has to speak to the shoe
+the needle cannot speak to this sock
+the needle can speak to that hook
+this needle speaks to a yarn
+this needle spoke to the sunhat
+this needle will speak to this car
+this needle has spoken to that doll
+this yarn should play with an apple
+this yarn must play with the pear
+this yarn has to play with this orange
+this yarn cannot play with that house
+this yarn can play with a farm
+this yarn plays with the cow
+that yarn played with this goat
+that yarn will play with that sheep
+that yarn has played with a chicken
+that yarn should hold the hen
+that yarn must hold this pig
+that yarn has to hold that human
+that yarn cannot hold a star
+that yarn can hold the planet
+that yarn holds this robot
+that yarn held that pea
+a yarn will hold a book
+a yarn has held the shoe
+a yarn should craft this sock
+a yarn must craft that hook
+a yarn has to craft a needle
+a yarn cannot craft the sunhat
+a yarn can craft this car
+a yarn crafts that doll
+a sunhat crafted an apple
+a sunhat will craft the pear
+the sunhat has crafted this orange
+the sunhat should dress that house
+the sunhat must dress a farm
+the sunhat has to dress the cow
+the sunhat cannot dress this goat
+the sunhat can dress that sheep
+the sunhat dresses a chicken
+the sunhat dressed the hen
+the sunhat will dress this pig
+the sunhat has dressed that human
+this sunhat should twirl around a star
+this sunhat must twirl around the planet
+this sunhat has to twirl around this robot
+this sunhat cannot twirl around that pea
+this sunhat can twirl around a book
+this sunhat twirls around the shoe
+this sunhat twirled around this sock
+this sunhat will twirl around that hook
+this sunhat has twirled around a needle
+this sunhat should orbit the yarn
+that sunhat must orbit this car
+that sunhat has to orbit that doll
+that car cannot orbit an apple
+that car can orbit the pear
+that car orbits this orange
+that car orbited that house
+that car will orbit a farm
+that car has orbited the cow
+that car should multiply this goat
+that car must multiply that sheep
+a car has to multiply a chicken
+a car cannot multiply the hen
+a car can multiply this pig
+a car multiplies that human
+a car multiplied a star
+a car will multiply the planet
+a car has multiplied this robot
+a car should admire that pea
+a car must admire a book
+a car has to admire the shoe
+the car cannot admire this sock
+the car can admire that hook
+the car admires a needle
+the car admired the yarn
+the car will admire this sunhat
+the car has admired that doll
+the doll should pull an apple
+the doll must pull the pear
+the doll has to pull this orange
+the doll cannot pull that house
+this doll can pull a farm
+this doll pulls the cow
+this doll pulled this goat
+this doll will pull that sheep
+this doll has pulled a chicken
+this doll should write the hen
+this doll must write this pig
+this doll has to write that human
+this doll cannot write a star
+this doll can write the planet
+that doll writes this robot
+that doll wrote that pea
+that doll will write a book
+that doll has written the shoe
+that doll should eat this sock
+that doll must eat that hook
+that doll has to eat a needle
+that doll cannot eat the yarn
+that doll can eat this sunhat
+that doll eats that car
+an apple ate a pear
+an apple will eat the orange
+an apple has eaten this house
+an apple should jump over that farm
+an apple must jump over a cow
+an apple has to jump over the goat
+an apple cannot jump over this sheep
+an apple can jump over that chicken
+an apple jumps over a hen
+an apple jumped over the pig
+the apple will jump over this human
+the apple has jumped over that star
+the apple should drink a planet
+the apple must drink the robot
+the apple has to drink this pea
+the apple cannot drink that book
+the apple can drink a shoe
+the apple drinks the sock
+the apple drank this hook
+the apple will drink that needle
+this apple has drank a yarn
+this apple should drown in the sunhat
+this apple must drown in this car
+this apple has to drown in that doll
+this pear cannot drown in an apple
+this pear can drown in the orange
+this pear drowns in this house
+this pear drowned in that farm
+this pear will drown in a cow
+this pear has drowned in the goat
+that pear should swim across this sheep
+that pear must swim across that chicken
+that pear has to swim across a hen
+that pear cannot swim across the pig
+that pear can swim across this human
+that pear swims across that star
+that pear swam across a planet
+that pear will swim across the robot
+that pear has swum across this pea
+that pear should dance with that book
+a pear must dance with a shoe
+a pear has to dance with the sock
+a pear cannot dance with this hook
+a pear can dance with that needle
+a pear dances with a yarn
+a pear danced with the sunhat
+a pear will dance with this car
+a pear has danced with that doll
+an orange should throw an apple
+an orange must throw the pear
+the orange has to throw this house
+the orange cannot throw that farm
+the orange can throw a cow
+the orange throws the goat
+the orange threw this sheep
+the orange will throw that chicken
+the orange has thrown a hen
+the orange should paint the pig
+the orange must paint this human
+the orange has to paint that star
+this orange cannot paint a planet
+this orange can paint the robot
+this orange paints this pea
+this orange painted that book
+this orange will paint a shoe
+this orange has painted the sock
+this orange should draw this hook
+this orange must draw that needle
+this orange has to draw a yarn
+this orange cannot draw the sunhat
+that orange can draw this car
+that orange draws that doll
+that house drew an apple
+that house will draw the pear
+that house has drawn this orange
+that house should squeeze that farm
+that house must squeeze a cow
+that house has to squeeze the goat
+that house cannot squeeze this sheep
+that house can squeeze that chicken
+a house squeezes a hen
+a house squeezed the pig
+a house will squeeze this human
+a house has squeezed that star
+a house should create a planet
+a house must create the robot
+a house has to create this pea
+a house cannot create that book
+a house can create a shoe
+a house creates the sock
+the house created this hook
+the house will create that needle
+the house has created a yarn
+the house should speak to the sunhat
+the house must speak to this car
+the house has to speak to that doll
+the farm cannot speak to an apple
+the farm can speak to the pear
+the farm speaks to this orange
+the farm spoke to that house
+this farm will speak to a cow
+this farm has spoken to the goat
+this farm should play with this sheep
+this farm must play with that chicken
+this farm has to play with a hen
+this farm cannot play with the pig
+this farm can play with this human
+this farm plays with that star
+this farm played with a planet
+this farm will play with the robot
+that farm has played with this pea
+that farm should hold that book
+that farm must hold a shoe
+that farm has to hold the sock
+that farm cannot hold this hook
+that farm can hold that needle
+that farm holds a yarn
+that farm held the sunhat
+that farm will hold this car
+that farm has held that doll
+a cow should craft an apple
+a cow must craft the pear
+a cow has to craft this orange
+a cow cannot craft that house
+a cow can craft a farm
+a cow crafts the goat
+a cow crafted this sheep
+a cow will craft that chicken
+a cow has crafted a hen
+a cow should dress the pig
+the cow must dress this human
+the cow has to dress that star
+the cow cannot dress a planet
+the cow can dress the robot
+the cow dresses this pea
+the cow dressed that book
+the cow will dress a shoe
+the cow has dressed the sock
+the cow should twirl around this hook
+the cow must twirl around that needle
+this cow has to twirl around a yarn
+this cow cannot twirl around the sunhat
+this cow can twirl around this car
+this cow twirls around that doll
+this goat twirled around an apple
+this goat will twirl around the pear
+this goat has twirled around this orange
+this goat should orbit that house
+this goat must orbit a farm
+this goat has to orbit the cow
+that goat cannot orbit this sheep
+that goat can orbit that chicken
+that goat orbits a hen
+that goat orbited the pig
+that goat will orbit this human
+that goat has orbited that star
+that goat should multiply a planet
+that goat must multiply the robot
+that goat has to multiply this pea
+that goat cannot multiply that book
+a goat can multiply a shoe
+a goat multiplies the sock
+a goat multiplied this hook
+a goat will multiply that needle
+a goat has multiplied a yarn
+a goat should admire the sunhat
+a goat must admire this car
+a goat has to admire that doll
+a sheep cannot admire an apple
+a sheep can admire the pear
+the sheep admires this orange
+the sheep admired that house
+the sheep will admire a farm
+the sheep has admired the cow
+the sheep should pull this goat
+the sheep must pull that chicken
+the sheep has to pull a hen
+the sheep cannot pull the pig
+the sheep can pull this human
+the sheep pulls that star
+this sheep pulled a planet
+this sheep will pull the robot
+this sheep has pulled this pea
+this sheep should write that book
+this sheep must write a shoe
+this sheep has to write the sock
+this sheep cannot write this hook
+this sheep can write that needle
+this sheep writes a yarn
+this sheep wrote the sunhat
+that sheep will write this car
+that sheep has written that doll
+that chicken should eat an apple
+that chicken must eat the pear
+that chicken has to eat this orange
+that chicken cannot eat that house
+that chicken can eat a farm
+that chicken eats the cow
+that chicken ate this goat
+that chicken will eat that sheep
+a chicken has eaten a hen
+a chicken should jump over the pig
+a chicken must jump over this human
+a chicken has to jump over that star
+a chicken cannot jump over a planet
+a chicken can jump over the robot
+a chicken jumps over this pea
+a chicken jumped over that book
+a chicken will jump over a shoe
+a chicken has jumped over the sock
+the chicken should drink this hook
+the chicken must drink that needle
+the chicken has to drink a yarn
+the chicken cannot drink the sunhat
+the chicken can drink this car
+the chicken drinks that doll
+the hen drank an apple
+the hen will drink the pear
+the hen has drank this orange
+the hen should drown in that house
+this hen must drown in a farm
+this hen has to drown in the cow
+this hen cannot drown in this goat
+this hen can drown in that sheep
+this hen drowns in a chicken
+this hen drowned in the pig
+this hen will drown in this human
+this hen has drowned in that star
+this hen should swim across a planet
+this hen must swim across the robot
+that hen has to swim across this pea
+that hen cannot swim across that book
+that hen can swim across a shoe
+that hen swims across the sock
+that hen swam across this hook
+that hen will swim across that needle
+that hen has swum across a yarn
+that hen should dance with the sunhat
+that hen must dance with this car
+that hen has to dance with that doll
+a pig cannot dance with an apple
+a pig can dance with the pear
+a pig dances with this orange
+a pig danced with that house
+a pig will dance with a farm
+a pig has danced with the cow
+a pig should throw this goat
+a pig must throw that sheep
+a pig has to throw a chicken
+a pig cannot throw the hen
+the pig can throw this human
+the pig throws that star
+the pig threw a planet
+the pig will throw the robot
+the pig has thrown this pea
+the pig should paint that book
+the pig must paint a shoe
+the pig has to paint the sock
+the pig cannot paint this hook
+the pig can paint that needle
+this pig paints a yarn
+this pig painted the sunhat
+this pig will paint this car
+this pig has painted that doll
+this human should draw an apple
+this human must draw the pear
+this human has to draw this orange
+this human cannot draw that house
+this human can draw a farm
+this human draws the cow
+that human drew this goat
+that human will draw that sheep
+that human has drawn a chicken
+that human should squeeze the hen
+that human must squeeze this pig
+that human has to squeeze that star
+that human cannot squeeze a planet
+that human can squeeze the robot
+that human squeezes this pea
+that human squeezed that book
+a human will squeeze a shoe
+a human has squeezed the sock
+a human should create this hook
+a human must create that needle
+a human has to create a yarn
+a human cannot create the sunhat
+a human can create this car
+a human creates that doll
+a star created an apple
+a star will create the pear
+the star has created this orange
+the star should speak to that house
+the star must speak to a farm
+the star has to speak to the cow
+the star cannot speak to this goat
+the star can speak to that sheep
+the star speaks to a chicken
+the star spoke to the hen
+the star will speak to this pig
+the star has spoken to that human
+this star should play with a planet
+this star must play with the robot
+this star has to play with this pea
+this star cannot play with that book
+this star can play with a shoe
+this star plays with the sock
+this star played with this hook
+this star will play with that needle
+this star has played with a yarn
+this star should hold the sunhat
+that star must hold this car
+that star has to hold that doll
+that planet cannot hold an apple
+that planet can hold the pear
+that planet holds this orange
+that planet held that house
+that planet will hold a farm
+that planet has held the cow
+that planet should craft this goat
+that planet must craft that sheep
+a planet has to craft a chicken
+a planet cannot craft the hen
+a planet can craft this pig
+a planet crafts that human
+a planet crafted a star
+a planet will craft the robot
+a planet has crafted this pea
+a planet should dress that book
+a planet must dress a shoe
+a planet has to dress the sock
+the planet cannot dress this hook
+the planet can dress that needle
+the planet dresses a yarn
+the planet dressed the sunhat
+the planet will dress this car
+the planet has dressed that doll
+the robot should twirl around an apple
+the robot must twirl around the pear
+the robot has to twirl around this orange
+the robot cannot twirl around that house
+this robot can twirl around a farm
+this robot twirls around the cow
+this robot twirled around this goat
+this robot will twirl around that sheep
+this robot has twirled around a chicken
+this robot should orbit the hen
+this robot must orbit this pig
+this robot has to orbit that human
+this robot cannot orbit a star
+this robot can orbit the planet
+that robot orbits this pea
+that robot orbited that book
+that robot will orbit a shoe
+that robot has orbited the sock
+that robot should multiply this hook
+that robot must multiply that needle
+that robot has to multiply a yarn
+that robot cannot multiply the sunhat
+that robot can multiply this car
+that robot multiplies that doll
+a pea multiplied an apple
+a pea will multiply the pear
+a pea has multiplied this orange
+a pea should admire that house
+a pea must admire a farm
+a pea has to admire the cow
+a pea cannot admire this goat
+a pea can admire that sheep
+a pea admires a chicken
+a pea admired the hen
+the pea will admire this pig
+the pea has admired that human
+the pea should pull a star
+the pea must pull the planet
+the pea has to pull this robot
+the pea cannot pull that book
+the pea can pull a shoe
+the pea pulls the sock
+the pea pulled this hook
+the pea will pull that needle
+this pea has pulled a yarn
+this pea should write the sunhat
+this pea must write this car
+this pea has to write that doll
+this book cannot write an apple
+this book can write the pear
+this book writes this orange
+this book wrote that house
+this book will write a farm
+this book has written the cow
+that book should eat this goat
+that book must eat that sheep
+that book has to eat a chicken
+that book cannot eat the hen
+that book can eat this pig
+that book eats that human
+that book ate a star
+that book will eat the planet
+that book has eaten this robot
+that book should jump over that pea
+a book must jump over a shoe
+a book has to jump over the sock
+a book cannot jump over this hook
+a book can jump over that needle
+a book jumps over a yarn
+a book jumped over the sunhat
+a book will jump over this car
+a book has jumped over that doll
+a shoe should drink an apple
+a shoe must drink the pear
+the shoe has to drink this orange
+the shoe cannot drink that house
+the shoe can drink a farm
+the shoe drinks the cow
+the shoe drank this goat
+the shoe will drink that sheep
+the shoe has drank a chicken
+the shoe should drown in the hen
+the shoe must drown in this pig
+the shoe has to drown in that human
+this shoe cannot drown in a star
+this shoe can drown in the planet
+this shoe drowns in this robot
+this shoe drowned in that pea
+this shoe will drown in a book
+this shoe has drowned in the sock
+this shoe should swim across this hook
+this shoe must swim across that needle
+this shoe has to swim across a yarn
+this shoe cannot swim across the sunhat
+that shoe can swim across this car
+that shoe swims across that doll
+that sock swam across an apple
+that sock will swim across the pear
+that sock has swum across this orange
+that sock should dance with that house
+that sock must dance with a farm
+that sock has to dance with the cow
+that sock cannot dance with this goat
+that sock can dance with that sheep
+a sock dances with a chicken
+a sock danced with the hen
+a sock will dance with this pig
+a sock has danced with that human
+a sock should throw a star
+a sock must throw the planet
+a sock has to throw this robot
+a sock cannot throw that pea
+a sock can throw a book
+a sock throws the shoe
+the sock threw this hook
+the sock will throw that needle
+the sock has thrown a yarn
+the sock should paint the sunhat
+the sock must paint this car
+the sock has to paint that doll
+the hook cannot paint an apple
+the hook can paint the pear
+the hook paints this orange
+the hook painted that house
+this hook will paint a farm
+this hook has painted the cow
+this hook should draw this goat
+this hook must draw that sheep
+this hook has to draw a chicken
+this hook cannot draw the hen
+this hook can draw this pig
+this hook draws that human
+this hook drew a star
+this hook will draw the planet
+that hook has drawn this robot
+that hook should squeeze that pea
+that hook must squeeze a book
+that hook has to squeeze the shoe
+that hook cannot squeeze this sock
+that hook can squeeze that needle
+that hook squeezes a yarn
+that hook squeezed the sunhat
+that hook will squeeze this car
+that hook has squeezed that doll
+a needle should create an apple
+a needle must create the pear
+a needle has to create this orange
+a needle cannot create that house
+a needle can create a farm
+a needle creates the cow
+a needle created this goat
+a needle will create that sheep
+a needle has created a chicken
+a needle should speak to the hen
+the needle must speak to this pig
+the needle has to speak to that human
+the needle cannot speak to a star
+the needle can speak to the planet
+the needle speaks to this robot
+the needle spoke to that pea
+the needle will speak to a book
+the needle has spoken to the shoe
+the needle should play with this sock
+the needle must play with that hook
+this needle has to play with a yarn
+this needle cannot play with the sunhat
+this needle can play with this car
+this needle plays with that doll
+this yarn played with an apple
+this yarn will play with the pear
+this yarn has played with this orange
+this yarn should hold that house
+this yarn must hold a farm
+this yarn has to hold the cow
+that yarn cannot hold this goat
+that yarn can hold that sheep
+that yarn holds a chicken
+that yarn held the hen
+that yarn will hold this pig
+that yarn has held that human
+that yarn should craft a star
+that yarn must craft the planet
+that yarn has to craft this robot
+that yarn cannot craft that pea
+a yarn can craft a book
+a yarn crafts the shoe
+a yarn crafted this sock
+a yarn will craft that hook
+a yarn has crafted a needle
+a yarn should dress the sunhat
+a yarn must dress this car
+a yarn has to dress that doll
+a sunhat cannot dress an apple
+a sunhat can dress the pear
+the sunhat dresses this orange
+the sunhat dressed that house
+the sunhat will dress a farm
+the sunhat has dressed the cow
+the sunhat should twirl around this goat
+the sunhat must twirl around that sheep
+the sunhat has to twirl around a chicken
+the sunhat cannot twirl around the hen
+the sunhat can twirl around this pig
+the sunhat twirls around that human
+this sunhat twirled around a star
+this sunhat will twirl around the planet
+this sunhat has twirled around this robot
+this sunhat should orbit that pea
+this sunhat must orbit a book
+this sunhat has to orbit the shoe
+this sunhat cannot orbit this sock
+this sunhat can orbit that hook
+this sunhat orbits a needle
+this sunhat orbited the yarn
+that sunhat will orbit this car
+that sunhat has orbited that doll
+that car should multiply an apple
+that car must multiply the pear
+that car has to multiply this orange
+that car cannot multiply that house
+that car can multiply a farm
+that car multiplies the cow
+that car multiplied this goat
+that car will multiply that sheep
+a car has multiplied a chicken
+a car should admire the hen
+a car must admire this pig
+a car has to admire that human
+a car cannot admire a star
+a car can admire the planet
+a car admires this robot
+a car admired that pea
+a car will admire a book
+a car has admired the shoe
+the car should pull this sock
+the car must pull that hook
+the car has to pull a needle
+the car cannot pull the yarn
+the car can pull this sunhat
+the car pulls that doll
+the doll pulled an apple
+the doll will pull the pear
+the doll has pulled this orange
+the doll should write that house
+this doll must write a farm
+this doll has to write the cow
+this doll cannot write this goat
+this doll can write that sheep
+this doll writes a chicken
+this doll wrote the hen
+this doll will write this pig
+this doll has written that human
+this doll should eat a star
+this doll must eat the planet
+that doll has to eat this robot
+that doll cannot eat that pea
+that doll can eat a book
+that doll eats the shoe
+that doll ate this sock
+that doll will eat that hook
+that doll has eaten a needle
+that doll should jump over the yarn
+that doll must jump over this sunhat
+that doll has to jump over that car
+an apple cannot jump over a pear
+an apple can jump over the orange
+an apple jumps over this house
+an apple jumped over that farm
+an apple will jump over a cow
+an apple has jumped over the goat
+an apple should drink this sheep
+an apple must drink that chicken
+an apple has to drink a hen
+an apple cannot drink the pig
+the apple can drink this human
+the apple drinks that star
+the apple drank a planet
+the apple will drink the robot
+the apple has drank this pea
+the apple should drown in that book
+the apple must drown in a shoe
+the apple has to drown in the sock
+the apple cannot drown in this hook
+the apple can drown in that needle
+this apple drowns in a yarn
+this apple drowned in the sunhat
+this apple will drown in this car
+this apple has drowned in that doll
+this pear should swim across an apple
+this pear must swim across the orange
+this pear has to swim across this house
+this pear cannot swim across that farm
+this pear can swim across a cow
+this pear swims across the goat
+that pear swam across this sheep
+that pear will swim across that chicken
+that pear has swum across a hen
+that pear should dance with the pig
+that pear must dance with this human
+that pear has to dance with that star
+that pear cannot dance with a planet
+that pear can dance with the robot
+that pear dances with this pea
+that pear danced with that book
+a pear will dance with a shoe
+a pear has danced with the sock
+a pear should throw this hook
+a pear must throw that needle
+a pear has to throw a yarn
+a pear cannot throw the sunhat
+a pear can throw this car
+a pear throws that doll
+an orange threw an apple
+an orange will throw the pear
+the orange has thrown this house
+the orange should paint that farm
+the orange must paint a cow
+the orange has to paint the goat
+the orange cannot paint this sheep
+the orange can paint that chicken
+the orange paints a hen
+the orange painted the pig
+the orange will paint this human
+the orange has painted that star
+this orange should draw a planet
+this orange must draw the robot
+this orange has to draw this pea
+this orange cannot draw that book
+this orange can draw a shoe
+this orange draws the sock
+this orange drew this hook
+this orange will draw that needle
+this orange has drawn a yarn
+this orange should squeeze the sunhat
+that orange must squeeze this car
+that orange has to squeeze that doll
+that house cannot squeeze an apple
+that house can squeeze the pear
+that house squeezes this orange
+that house squeezed that farm
+that house will squeeze a cow
+that house has squeezed the goat
+that house should create this sheep
+that house must create that chicken
+a house has to create a hen
+a house cannot create the pig
+a house can create this human
+a house creates that star
+a house created a planet
+a house will create the robot
+a house has created this pea
+a house should speak to that book
+a house must speak to a shoe
+a house has to speak to the sock
+the house cannot speak to this hook
+the house can speak to that needle
+the house speaks to a yarn
+the house spoke to the sunhat
+the house will speak to this car
+the house has spoken to that doll
+the farm should play with an apple
+the farm must play with the pear
+the farm has to play with this orange
+the farm cannot play with that house
+this farm can play with a cow
+this farm plays with the goat
+this farm played with this sheep
+this farm will play with that chicken
+this farm has played with a hen
+this farm should hold the pig
+this farm must hold this human
+this farm has to hold that star
+this farm cannot hold a planet
+this farm can hold the robot
+that farm holds this pea
+that farm held that book
+that farm will hold a shoe
+that farm has held the sock
+that farm should craft this hook
+that farm must craft that needle
+that farm has to craft a yarn
+that farm cannot craft the sunhat
+that farm can craft this car
+that farm crafts that doll
+a cow crafted an apple
+a cow will craft the pear
+a cow has crafted this orange
+a cow should dress that house
+a cow must dress a farm
+a cow has to dress the goat
+a cow cannot dress this sheep
+a cow can dress that chicken
+a cow dresses a hen
+a cow dressed the pig
+the cow will dress this human
+the cow has dressed that star
+the cow should twirl around a planet
+the cow must twirl around the robot
+the cow has to twirl around this pea
+the cow cannot twirl around that book
+the cow can twirl around a shoe
+the cow twirls around the sock
+the cow twirled around this hook
+the cow will twirl around that needle
+this cow has twirled around a yarn
+this cow should orbit the sunhat
+this cow must orbit this car
+this cow has to orbit that doll
+this goat cannot orbit an apple
+this goat can orbit the pear
+this goat orbits this orange
+this goat orbited that house
+this goat will orbit a farm
+this goat has orbited the cow
+that goat should multiply this sheep
+that goat must multiply that chicken
+that goat has to multiply a hen
+that goat cannot multiply the pig
+that goat can multiply this human
+that goat multiplies that star
+that goat multiplied a planet
+that goat will multiply the robot
+that goat has multiplied this pea
+that goat should admire that book
+a goat must admire a shoe
+a goat has to admire the sock
+a goat cannot admire this hook
+a goat can admire that needle
+a goat admires a yarn
+a goat admired the sunhat
+a goat will admire this car
+a goat has admired that doll
+a sheep should pull an apple
+a sheep must pull the pear
+the sheep has to pull this orange
+the sheep cannot pull that house
+the sheep can pull a farm
+the sheep pulls the cow
+the sheep pulled this goat
+the sheep will pull that chicken
+the sheep has pulled a hen
+the sheep should write the pig
+the sheep must write this human
+the sheep has to write that star
+this sheep cannot write a planet
+this sheep can write the robot
+this sheep writes this pea
+this sheep wrote that book
+this sheep will write a shoe
+this sheep has written the sock
+this sheep should eat this hook
+this sheep must eat that needle
+this sheep has to eat a yarn
+this sheep cannot eat the sunhat
+that sheep can eat this car
+that sheep eats that doll
+that chicken ate an apple
+that chicken will eat the pear
+that chicken has eaten this orange
+that chicken should jump over that house
+that chicken must jump over a farm
+that chicken has to jump over the cow
+that chicken cannot jump over this goat
+that chicken can jump over that sheep
+a chicken jumps over a hen
+a chicken jumped over the pig
+a chicken will jump over this human
+a chicken has jumped over that star
+a chicken should drink a planet
+a chicken must drink the robot
+a chicken has to drink this pea
+a chicken cannot drink that book
+a chicken can drink a shoe
+a chicken drinks the sock
+the chicken drank this hook
+the chicken will drink that needle
+the chicken has drank a yarn
+the chicken should drown in the sunhat
+the chicken must drown in this car
+the chicken has to drown in that doll
+the hen cannot drown in an apple
+the hen can drown in the pear
+the hen drowns in this orange
+the hen drowned in that house
+this hen will drown in a farm
+this hen has drowned in the cow
+this hen should swim across this goat
+this hen must swim across that sheep
+this hen has to swim across a chicken
+this hen cannot swim across the pig
+this hen can swim across this human
+this hen swims across that star
+this hen swam across a planet
+this hen will swim across the robot
+that hen has swum across this pea
+that hen should dance with that book
+that hen must dance with a shoe
+that hen has to dance with the sock
+that hen cannot dance with this hook
+that hen can dance with that needle
+that hen dances with a yarn
+that hen danced with the sunhat
+that hen will dance with this car
+that hen has danced with that doll
+a pig should throw an apple
+a pig must throw the pear
+a pig has to throw this orange
+a pig cannot throw that house
+a pig can throw a farm
+a pig throws the cow
+a pig threw this goat
+a pig will throw that sheep
+a pig has thrown a chicken
+a pig should paint the hen
+the pig must paint this human
+the pig has to paint that star
+the pig cannot paint a planet
+the pig can paint the robot
+the pig paints this pea
+the pig painted that book
+the pig will paint a shoe
+the pig has painted the sock
+the pig should draw this hook
+the pig must draw that needle
+this pig has to draw a yarn
+this pig cannot draw the sunhat
+this pig can draw this car
+this pig draws that doll
+this human drew an apple
+this human will draw the pear
+this human has drawn this orange
+this human should squeeze that house
+this human must squeeze a farm
+this human has to squeeze the cow
+that human cannot squeeze this goat
+that human can squeeze that sheep
+that human squeezes a chicken
+that human squeezed the hen
+that human will squeeze this pig
+that human has squeezed that star
+that human should create a planet
+that human must create the robot
+that human has to create this pea
+that human cannot create that book
+a human can create a shoe
+a human creates the sock
+a human created this hook
+a human will create that needle
+a human has created a yarn
+a human should speak to the sunhat
+a human must speak to this car
+a human has to speak to that doll
+a star cannot speak to an apple
+a star can speak to the pear
+the star speaks to this orange
+the star spoke to that house
+the star will speak to a farm
+the star has spoken to the cow
+the star should play with this goat
+the star must play with that sheep
+the star has to play with a chicken
+the star cannot play with the hen
+the star can play with this pig
+the star plays with that human
+this star played with a planet
+this star will play with the robot
+this star has played with this pea
+this star should hold that book
+this star must hold a shoe
+this star has to hold the sock
+this star cannot hold this hook
+this star can hold that needle
+this star holds a yarn
+this star held the sunhat
+that star will hold this car
+that star has held that doll
+that planet should craft an apple
+that planet must craft the pear
+that planet has to craft this orange
+that planet cannot craft that house
+that planet can craft a farm
+that planet crafts the cow
+that planet crafted this goat
+that planet will craft that sheep
+a planet has crafted a chicken
+a planet should dress the hen
+a planet must dress this pig
+a planet has to dress that human
+a planet cannot dress a star
+a planet can dress the robot
+a planet dresses this pea
+a planet dressed that book
+a planet will dress a shoe
+a planet has dressed the sock
+the planet should twirl around this hook
+the planet must twirl around that needle
+the planet has to twirl around a yarn
+the planet cannot twirl around the sunhat
+the planet can twirl around this car
+the planet twirls around that doll
+the robot twirled around an apple
+the robot will twirl around the pear
+the robot has twirled around this orange
+the robot should orbit that house
+this robot must orbit a farm
+this robot has to orbit the cow
+this robot cannot orbit this goat
+this robot can orbit that sheep
+this robot orbits a chicken
+this robot orbited the hen
+this robot will orbit this pig
+this robot has orbited that human
+this robot should multiply a star
+this robot must multiply the planet
+that robot has to multiply this pea
+that robot cannot multiply that book
+that robot can multiply a shoe
+that robot multiplies the sock
+that robot multiplied this hook
+that robot will multiply that needle
+that robot has multiplied a yarn
+that robot should admire the sunhat
+that robot must admire this car
+that robot has to admire that doll
+a pea cannot admire an apple
+a pea can admire the pear
+a pea admires this orange
+a pea admired that house
+a pea will admire a farm
+a pea has admired the cow
+a pea should pull this goat
+a pea must pull that sheep
+a pea has to pull a chicken
+a pea cannot pull the hen
+the pea can pull this pig
+the pea pulls that human
+the pea pulled a star
+the pea will pull the planet
+the pea has pulled this robot
+the pea should write that book
+the pea must write a shoe
+the pea has to write the sock
+the pea cannot write this hook
+the pea can write that needle
+this pea writes a yarn
+this pea wrote the sunhat
+this pea will write this car
+this pea has written that doll
+this book should eat an apple
+this book must eat the pear
+this book has to eat this orange
+this book cannot eat that house
+this book can eat a farm
+this book eats the cow
+that book ate this goat
+that book will eat that sheep
+that book has eaten a chicken
+that book should jump over the hen
+that book must jump over this pig
+that book has to jump over that human
+that book cannot jump over a star
+that book can jump over the planet
+that book jumps over this robot
+that book jumped over that pea
+a book will jump over a shoe
+a book has jumped over the sock
+a book should drink this hook
+a book must drink that needle
+a book has to drink a yarn
+a book cannot drink the sunhat
+a book can drink this car
+a book drinks that doll
+a shoe drank an apple
+a shoe will drink the pear
+the shoe has drank this orange
+the shoe should drown in that house
+the shoe must drown in a farm
+the shoe has to drown in the cow
+the shoe cannot drown in this goat
+the shoe can drown in that sheep
+the shoe drowns in a chicken
+the shoe drowned in the hen
+the shoe will drown in this pig
+the shoe has drowned in that human
+this shoe should swim across a star
+this shoe must swim across the planet
+this shoe has to swim across this robot
+this shoe cannot swim across that pea
+this shoe can swim across a book
+this shoe swims across the sock
+this shoe swam across this hook
+this shoe will swim across that needle
+this shoe has swum across a yarn
+this shoe should dance with the sunhat
+that shoe must dance with this car
+that shoe has to dance with that doll
+that sock cannot dance with an apple
+that sock can dance with the pear
+that sock dances with this orange
+that sock danced with that house
+that sock will dance with a farm
+that sock has danced with the cow
+that sock should throw this goat
+that sock must throw that sheep
+a sock has to throw a chicken
+a sock cannot throw the hen
+a sock can throw this pig
+a sock throws that human
+a sock threw a star
+a sock will throw the planet
+a sock has thrown this robot
+a sock should paint that pea
+a sock must paint a book
+a sock has to paint the shoe
+the sock cannot paint this hook
+the sock can paint that needle
+the sock paints a yarn
+the sock painted the sunhat
+the sock will paint this car
+the sock has painted that doll
+the hook should draw an apple
+the hook must draw the pear
+the hook has to draw this orange
+the hook cannot draw that house
+this hook can draw a farm
+this hook draws the cow
+this hook drew this goat
+this hook will draw that sheep
+this hook has drawn a chicken
+this hook should squeeze the hen
+this hook must squeeze this pig
+this hook has to squeeze that human
+this hook cannot squeeze a star
+this hook can squeeze the planet
+that hook squeezes this robot
+that hook squeezed that pea
+that hook will squeeze a book
+that hook has squeezed the shoe
+that hook should create this sock
+that hook must create that needle
+that hook has to create a yarn
+that hook cannot create the sunhat
+that hook can create this car
+that hook creates that doll
+a needle created an apple
+a needle will create the pear
+a needle has created this orange
+a needle should speak to that house
+a needle must speak to a farm
+a needle has to speak to the cow
+a needle cannot speak to this goat
+a needle can speak to that sheep
+a needle speaks to a chicken
+a needle spoke to the hen
+the needle will speak to this pig
+the needle has spoken to that human
+the needle should play with a star
+the needle must play with the planet
+the needle has to play with this robot
+the needle cannot play with that pea
+the needle can play with a book
+the needle plays with the shoe
+the needle played with this sock
+the needle will play with that hook
+this needle has played with a yarn
+this needle should hold the sunhat
+this needle must hold this car
+this needle has to hold that doll
+this yarn cannot hold an apple
+this yarn can hold the pear
+this yarn holds this orange
+this yarn held that house
+this yarn will hold a farm
+this yarn has held the cow
+that yarn should craft this goat
+that yarn must craft that sheep
+that yarn has to craft a chicken
+that yarn cannot craft the hen
+that yarn can craft this pig
+that yarn crafts that human
+that yarn crafted a star
+that yarn will craft the planet
+that yarn has crafted this robot
+that yarn should dress that pea
+a yarn must dress a book
+a yarn has to dress the shoe
+a yarn cannot dress this sock
+a yarn can dress that hook
+a yarn dresses a needle
+a yarn dressed the sunhat
+a yarn will dress this car
+a yarn has dressed that doll
+a sunhat should twirl around an apple
+a sunhat must twirl around the pear
+the sunhat has to twirl around this orange
+the sunhat cannot twirl around that house
+the sunhat can twirl around a farm
+the sunhat twirls around the cow
+the sunhat twirled around this goat
+the sunhat will twirl around that sheep
+the sunhat has twirled around a chicken
+the sunhat should orbit the hen
+the sunhat must orbit this pig
+the sunhat has to orbit that human
+this sunhat cannot orbit a star
+this sunhat can orbit the planet
+this sunhat orbits this robot
+this sunhat orbited that pea
+this sunhat will orbit a book
+this sunhat has orbited the shoe
+this sunhat should multiply this sock
+this sunhat must multiply that hook
+this sunhat has to multiply a needle
+this sunhat cannot multiply the yarn
+that sunhat can multiply this car
+that sunhat multiplies that doll
+that car multiplied an apple
+that car will multiply the pear
+that car has multiplied this orange
+that car should admire that house
+that car must admire a farm
+that car has to admire the cow
+that car cannot admire this goat
+that car can admire that sheep
+a car admires a chicken
+a car admired the hen
+a car will admire this pig
+a car has admired that human
+a car should pull a star
+a car must pull the planet
+a car has to pull this robot
+a car cannot pull that pea
+a car can pull a book
+a car pulls the shoe
+the car pulled this sock
+the car will pull that hook
+the car has pulled a needle
+the car should write the yarn
+the car must write this sunhat
+the car has to write that doll
+the doll cannot write an apple
+the doll can write the pear
+the doll writes this orange
+the doll wrote that house
+this doll will write a farm
+this doll has written the cow
+this doll should eat this goat
+this doll must eat that sheep
+this doll has to eat a chicken
+this doll cannot eat the hen
+this doll can eat this pig
+this doll eats that human
+this doll ate a star
+this doll will eat the planet
+that doll has eaten this robot
+that doll should jump over that pea
+that doll must jump over a book
+that doll has to jump over the shoe
+that doll cannot jump over this sock
+that doll can jump over that hook
+that doll jumps over a needle
+that doll jumped over the yarn
+that doll will jump over this sunhat
+that doll has jumped over that car
+an apple should drink a pear
+an apple must drink the orange
+an apple has to drink this house
+an apple cannot drink that farm
+an apple can drink a cow
+an apple drinks the goat
+an apple drank this sheep
+an apple will drink that chicken
+an apple has drank a hen
+an apple should drown in the pig
+the apple must drown in this human
+the apple has to drown in that star
+the apple cannot drown in a planet
+the apple can drown in the robot
+the apple drowns in this pea
+the apple drowned in that book
+the apple will drown in a shoe
+the apple has drowned in the sock
+the apple should swim across this hook
+the apple must swim across that needle
+this apple has to swim across a yarn
+this apple cannot swim across the sunhat
+this apple can swim across this car
+this apple swims across that doll
+this pear swam across an apple
+this pear will swim across the orange
+this pear has swum across this house
+this pear should dance with that farm
+this pear must dance with a cow
+this pear has to dance with the goat
+that pear cannot dance with this sheep
+that pear can dance with that chicken
+that pear dances with a hen
+that pear danced with the pig
+that pear will dance with this human
+that pear has danced with that star
+that pear should throw a planet
+that pear must throw the robot
+that pear has to throw this pea
+that pear cannot throw that book
+a pear can throw a shoe
+a pear throws the sock
+a pear threw this hook
+a pear will throw that needle
+a pear has thrown a yarn
+a pear should paint the sunhat
+a pear must paint this car
+a pear has to paint that doll
+an orange cannot paint an apple
+an orange can paint the pear
+the orange paints this house
+the orange painted that farm
+the orange will paint a cow
+the orange has painted the goat
+the orange should draw this sheep
+the orange must draw that chicken
+the orange has to draw a hen
+the orange cannot draw the pig
+the orange can draw this human
+the orange draws that star
+this orange drew a planet
+this orange will draw the robot
+this orange has drawn this pea
+this orange should squeeze that book
+this orange must squeeze a shoe
+this orange has to squeeze the sock
+this orange cannot squeeze this hook
+this orange can squeeze that needle
+this orange squeezes a yarn
+this orange squeezed the sunhat
+that orange will squeeze this car
+that orange has squeezed that doll
+that house should create an apple
+that house must create the pear
+that house has to create this orange
+that house cannot create that farm
+that house can create a cow
+that house creates the goat
+that house created this sheep
+that house will create that chicken
+a house has created a hen
+a house should speak to the pig
+a house must speak to this human
+a house has to speak to that star
+a house cannot speak to a planet
+a house can speak to the robot
+a house speaks to this pea
+a house spoke to that book
+a house will speak to a shoe
+a house has spoken to the sock
+the house should play with this hook
+the house must play with that needle
+the house has to play with a yarn
+the house cannot play with the sunhat
+the house can play with this car
+the house plays with that doll
+the farm played with an apple
+the farm will play with the pear
+the farm has played with this orange
+the farm should hold that house
+this farm must hold a cow
+this farm has to hold the goat
+this farm cannot hold this sheep
+this farm can hold that chicken
+this farm holds a hen
+this farm held the pig
+this farm will hold this human
+this farm has held that star
+this farm should craft a planet
+this farm must craft the robot
+that farm has to craft this pea
+that farm cannot craft that book
+that farm can craft a shoe
+that farm crafts the sock
+that farm crafted this hook
+that farm will craft that needle
+that farm has crafted a yarn
+that farm should dress the sunhat
+that farm must dress this car
+that farm has to dress that doll
+a cow cannot dress an apple
+a cow can dress the pear
+a cow dresses this orange
+a cow dressed that house
+a cow will dress a farm
+a cow has dressed the goat
+a cow should twirl around this sheep
+a cow must twirl around that chicken
+a cow has to twirl around a hen
+a cow cannot twirl around the pig
+the cow can twirl around this human
+the cow twirls around that star
+the cow twirled around a planet
+the cow will twirl around the robot
+the cow has twirled around this pea
+the cow should orbit that book
+the cow must orbit a shoe
+the cow has to orbit the sock
+the cow cannot orbit this hook
+the cow can orbit that needle
+this cow orbits a yarn
+this cow orbited the sunhat
+this cow will orbit this car
+this cow has orbited that doll
+this goat should multiply an apple
+this goat must multiply the pear
+this goat has to multiply this orange
+this goat cannot multiply that house
+this goat can multiply a farm
+this goat multiplies the cow
+that goat multiplied this sheep
+that goat will multiply that chicken
+that goat has multiplied a hen
+that goat should admire the pig
+that goat must admire this human
+that goat has to admire that star
+that goat cannot admire a planet
+that goat can admire the robot
+that goat admires this pea
+that goat admired that book
+a goat will admire a shoe
+a goat has admired the sock
+a goat should pull this hook
+a goat must pull that needle
+a goat has to pull a yarn
+a goat cannot pull the sunhat
+a goat can pull this car
+a goat pulls that doll
+a sheep pulled an apple
+a sheep will pull the pear
+the sheep has pulled this orange
+the sheep should write that house
+the sheep must write a farm
+the sheep has to write the cow
+the sheep cannot write this goat
+the sheep can write that chicken
+the sheep writes a hen
+the sheep wrote the pig
+the sheep will write this human
+the sheep has written that star
+this sheep should eat a planet
+this sheep must eat the robot
+this sheep has to eat this pea
+this sheep cannot eat that book
+this sheep can eat a shoe
+this sheep eats the sock
+this sheep ate this hook
+this sheep will eat that needle
+this sheep has eaten a yarn
+this sheep should jump over the sunhat
+that sheep must jump over this car
+that sheep has to jump over that doll
+that chicken cannot jump over an apple
+that chicken can jump over the pear
+that chicken jumps over this orange
+that chicken jumped over that house
+that chicken will jump over a farm
+that chicken has jumped over the cow
+that chicken should drink this goat
+that chicken must drink that sheep
+a chicken has to drink a hen
+a chicken cannot drink the pig
+a chicken can drink this human
+a chicken drinks that star
+a chicken drank a planet
+a chicken will drink the robot
+a chicken has drank this pea
+a chicken should drown in that book
+a chicken must drown in a shoe
+a chicken has to drown in the sock
+the chicken cannot drown in this hook
+the chicken can drown in that needle
+the chicken drowns in a yarn
+the chicken drowned in the sunhat
+the chicken will drown in this car
+the chicken has drowned in that doll
+the hen should swim across an apple
+the hen must swim across the pear
+the hen has to swim across this orange
+the hen cannot swim across that house
+this hen can swim across a farm
+this hen swims across the cow
+this hen swam across this goat
+this hen will swim across that sheep
+this hen has swum across a chicken
+this hen should dance with the pig
+this hen must dance with this human
+this hen has to dance with that star
+this hen cannot dance with a planet
+this hen can dance with the robot
+that hen dances with this pea
+that hen danced with that book
+that hen will dance with a shoe
+that hen has danced with the sock
+that hen should throw this hook
+that hen must throw that needle
+that hen has to throw a yarn
+that hen cannot throw the sunhat
+that hen can throw this car
+that hen throws that doll
+a pig threw an apple
+a pig will throw the pear
+a pig has thrown this orange
+a pig should paint that house
+a pig must paint a farm
+a pig has to paint the cow
+a pig cannot paint this goat
+a pig can paint that sheep
+a pig paints a chicken
+a pig painted the hen
+the pig will paint this human
+the pig has painted that star
+the pig should draw a planet
+the pig must draw the robot
+the pig has to draw this pea
+the pig cannot draw that book
+the pig can draw a shoe
+the pig draws the sock
+the pig drew this hook
+the pig will draw that needle
+this pig has drawn a yarn
+this pig should squeeze the sunhat
+this pig must squeeze this car
+this pig has to squeeze that doll
+this human cannot squeeze an apple
+this human can squeeze the pear
+this human squeezes this orange
+this human squeezed that house
+this human will squeeze a farm
+this human has squeezed the cow
+that human should create this goat
+that human must create that sheep
+that human has to create a chicken
+that human cannot create the hen
+that human can create this pig
+that human creates that star
+that human created a planet
+that human will create the robot
+that human has created this pea
+that human should speak to that book
+a human must speak to a shoe
+a human has to speak to the sock
+a human cannot speak to this hook
+a human can speak to that needle
+a human speaks to a yarn
+a human spoke to the sunhat
+a human will speak to this car
+a human has spoken to that doll
+a star should play with an apple
+a star must play with the pear
+the star has to play with this orange
+the star cannot play with that house
+the star can play with a farm
+the star plays with the cow
+the star played with this goat
+the star will play with that sheep
+the star has played with a chicken
+the star should hold the hen
+the star must hold this pig
+the star has to hold that human
+this star cannot hold a planet
+this star can hold the robot
+this star holds this pea
+this star held that book
+this star will hold a shoe
+this star has held the sock
+this star should craft this hook
+this star must craft that needle
+this star has to craft a yarn
+this star cannot craft the sunhat
+that star can craft this car
+that star crafts that doll
+that planet crafted an apple
+that planet will craft the pear
+that planet has crafted this orange
+that planet should dress that house
+that planet must dress a farm
+that planet has to dress the cow
+that planet cannot dress this goat
+that planet can dress that sheep
+a planet dresses a chicken
+a planet dressed the hen
+a planet will dress this pig
+a planet has dressed that human
+a planet should twirl around a star
+a planet must twirl around the robot
+a planet has to twirl around this pea
+a planet cannot twirl around that book
+a planet can twirl around a shoe
+a planet twirls around the sock
+the planet twirled around this hook
+the planet will twirl around that needle
+the planet has twirled around a yarn
+the planet should orbit the sunhat
+the planet must orbit this car
+the planet has to orbit that doll
+the robot cannot orbit an apple
+the robot can orbit the pear
+the robot orbits this orange
+the robot orbited that house
+this robot will orbit a farm
+this robot has orbited the cow
+this robot should multiply this goat
+this robot must multiply that sheep
+this robot has to multiply a chicken
+this robot cannot multiply the hen
+this robot can multiply this pig
+this robot multiplies that human
+this robot multiplied a star
+this robot will multiply the planet
+that robot has multiplied this pea
+that robot should admire that book
+that robot must admire a shoe
+that robot has to admire the sock
+that robot cannot admire this hook
+that robot can admire that needle
+that robot admires a yarn
+that robot admired the sunhat
+that robot will admire this car
+that robot has admired that doll
+a pea should pull an apple
+a pea must pull the pear
+a pea has to pull this orange
+a pea cannot pull that house
+a pea can pull a farm
+a pea pulls the cow
+a pea pulled this goat
+a pea will pull that sheep
+a pea has pulled a chicken
+a pea should write the hen
+the pea must write this pig
+the pea has to write that human
+the pea cannot write a star
+the pea can write the planet
+the pea writes this robot
+the pea wrote that book
+the pea will write a shoe
+the pea has written the sock
+the pea should eat this hook
+the pea must eat that needle
+this pea has to eat a yarn
+this pea cannot eat the sunhat
+this pea can eat this car
+this pea eats that doll
+this book ate an apple
+this book will eat the pear
+this book has eaten this orange
+this book should jump over that house
+this book must jump over a farm
+this book has to jump over the cow
+that book cannot jump over this goat
+that book can jump over that sheep
+that book jumps over a chicken
+that book jumped over the hen
+that book will jump over this pig
+that book has jumped over that human
+that book should drink a star
+that book must drink the planet
+that book has to drink this robot
+that book cannot drink that pea
+a book can drink a shoe
+a book drinks the sock
+a book drank this hook
+a book will drink that needle
+a book has drank a yarn
+a book should drown in the sunhat
+a book must drown in this car
+a book has to drown in that doll
+a shoe cannot drown in an apple
+a shoe can drown in the pear
+the shoe drowns in this orange
+the shoe drowned in that house
+the shoe will drown in a farm
+the shoe has drowned in the cow
+the shoe should swim across this goat
+the shoe must swim across that sheep
+the shoe has to swim across a chicken
+the shoe cannot swim across the hen
+the shoe can swim across this pig
+the shoe swims across that human
+this shoe swam across a star
+this shoe will swim across the planet
+this shoe has swum across this robot
+this shoe should dance with that pea
+this shoe must dance with a book
+this shoe has to dance with the sock
+this shoe cannot dance with this hook
+this shoe can dance with that needle
+this shoe dances with a yarn
+this shoe danced with the sunhat
+that shoe will dance with this car
+that shoe has danced with that doll
+that sock should throw an apple
+that sock must throw the pear
+that sock has to throw this orange
+that sock cannot throw that house
+that sock can throw a farm
+that sock throws the cow
+that sock threw this goat
+that sock will throw that sheep
+a sock has thrown a chicken
+a sock should paint the hen
+a sock must paint this pig
+a sock has to paint that human
+a sock cannot paint a star
+a sock can paint the planet
+a sock paints this robot
+a sock painted that pea
+a sock will paint a book
+a sock has painted the shoe
+the sock should draw this hook
+the sock must draw that needle
+the sock has to draw a yarn
+the sock cannot draw the sunhat
+the sock can draw this car
+the sock draws that doll
+the hook drew an apple
+the hook will draw the pear
+the hook has drawn this orange
+the hook should squeeze that house
+this hook must squeeze a farm
+this hook has to squeeze the cow
+this hook cannot squeeze this goat
+this hook can squeeze that sheep
+this hook squeezes a chicken
+this hook squeezed the hen
+this hook will squeeze this pig
+this hook has squeezed that human
+this hook should create a star
+this hook must create the planet
+that hook has to create this robot
+that hook cannot create that pea
+that hook can create a book
+that hook creates the shoe
+that hook created this sock
+that hook will create that needle
+that hook has created a yarn
+that hook should speak to the sunhat
+that hook must speak to this car
+that hook has to speak to that doll
+a needle cannot speak to an apple
+a needle can speak to the pear
+a needle speaks to this orange
+a needle spoke to that house
+a needle will speak to a farm
+a needle has spoken to the cow
+a needle should play with this goat
+a needle must play with that sheep
+a needle has to play with a chicken
+a needle cannot play with the hen
+the needle can play with this pig
+the needle plays with that human
+the needle played with a star
+the needle will play with the planet
+the needle has played with this robot
+the needle should hold that pea
+the needle must hold a book
+the needle has to hold the shoe
+the needle cannot hold this sock
+the needle can hold that hook
+this needle holds a yarn
+this needle held the sunhat
+this needle will hold this car
+this needle has held that doll
+this yarn should craft an apple
+this yarn must craft the pear
+this yarn has to craft this orange
+this yarn cannot craft that house
+this yarn can craft a farm
+this yarn crafts the cow
+that yarn crafted this goat
+that yarn will craft that sheep
+that yarn has crafted a chicken
+that yarn should dress the hen
+that yarn must dress this pig
+that yarn has to dress that human
+that yarn cannot dress a star
+that yarn can dress the planet
+that yarn dresses this robot
+that yarn dressed that pea
+a yarn will dress a book
+a yarn has dressed the shoe
+a yarn should twirl around this sock
+a yarn must twirl around that hook
+a yarn has to twirl around a needle
+a yarn cannot twirl around the sunhat
+a yarn can twirl around this car
+a yarn twirls around that doll
+a sunhat twirled around an apple
+a sunhat will twirl around the pear
+the sunhat has twirled around this orange
+the sunhat should orbit that house
+the sunhat must orbit a farm
+the sunhat has to orbit the cow
+the sunhat cannot orbit this goat
+the sunhat can orbit that sheep
+the sunhat orbits a chicken
+the sunhat orbited the hen
+the sunhat will orbit this pig
+the sunhat has orbited that human
+this sunhat should multiply a star
+this sunhat must multiply the planet
+this sunhat has to multiply this robot
+this sunhat cannot multiply that pea
+this sunhat can multiply a book
+this sunhat multiplies the shoe
+this sunhat multiplied this sock
+this sunhat will multiply that hook
+this sunhat has multiplied a needle
+this sunhat should admire the yarn
+that sunhat must admire this car
+that sunhat has to admire that doll
+that car cannot admire an apple
+that car can admire the pear
+that car admires this orange
+that car admired that house
+that car will admire a farm
+that car has admired the cow
+that car should pull this goat
+that car must pull that sheep
+a car has to pull a chicken
+a car cannot pull the hen
+a car can pull this pig
+a car pulls that human
+a car pulled a star
+a car will pull the planet
+a car has pulled this robot
+a car should write that pea
+a car must write a book
+a car has to write the shoe
+the car cannot write this sock
+the car can write that hook
+the car writes a needle
+the car wrote the yarn
+the car will write this sunhat
+the car has written that doll
+the doll should eat an apple
+the doll must eat the pear
+the doll has to eat this orange
+the doll cannot eat that house
+this doll can eat a farm
+this doll eats the cow
+this doll ate this goat
+this doll will eat that sheep
+this doll has eaten a chicken
+this doll should jump over the hen
+this doll must jump over this pig
+this doll has to jump over that human
+this doll cannot jump over a star
+this doll can jump over the planet
+that doll jumps over this robot
+that doll jumped over that pea
+that doll will jump over a book
+that doll has jumped over the shoe
+that doll should drink this sock
+that doll must drink that hook
+that doll has to drink a needle
+that doll cannot drink the yarn
+that doll can drink this sunhat
+that doll drinks that car
+an apple drank a pear
+an apple will drink the orange
+an apple has drank this house
+an apple should drown in that farm
+an apple must drown in a cow
+an apple has to drown in the goat
+an apple cannot drown in this sheep
+an apple can drown in that chicken
+an apple drowns in a hen
+an apple drowned in the pig
+the apple will drown in this human
+the apple has drowned in that star
+the apple should swim across a planet
+the apple must swim across the robot
+the apple has to swim across this pea
+the apple cannot swim across that book
+the apple can swim across a shoe
+the apple swims across the sock
+the apple swam across this hook
+the apple will swim across that needle
+this apple has swum across a yarn
+this apple should dance with the sunhat
+this apple must dance with this car
+this apple has to dance with that doll
+this pear cannot dance with an apple
+this pear can dance with the orange
+this pear dances with this house
+this pear danced with that farm
+this pear will dance with a cow
+this pear has danced with the goat
+that pear should throw this sheep
+that pear must throw that chicken
+that pear has to throw a hen
+that pear cannot throw the pig
+that pear can throw this human
+that pear throws that star
+that pear threw a planet
+that pear will throw the robot
+that pear has thrown this pea
+that pear should paint that book
+a pear must paint a shoe
+a pear has to paint the sock
+a pear cannot paint this hook
+a pear can paint that needle
+a pear paints a yarn
+a pear painted the sunhat
+a pear will paint this car
+a pear has painted that doll
+an orange should draw an apple
+an orange must draw the pear
+the orange has to draw this house
+the orange cannot draw that farm
+the orange can draw a cow
+the orange draws the goat
+the orange drew this sheep
+the orange will draw that chicken
+the orange has drawn a hen
+the orange should squeeze the pig
+the orange must squeeze this human
+the orange has to squeeze that star
+this orange cannot squeeze a planet
+this orange can squeeze the robot
+this orange squeezes this pea
+this orange squeezed that book
+this orange will squeeze a shoe
+this orange has squeezed the sock
+this orange should create this hook
+this orange must create that needle
+this orange has to create a yarn
+this orange cannot create the sunhat
+that orange can create this car
+that orange creates that doll
+that house created an apple
+that house will create the pear
+that house has created this orange
+that house should speak to that farm
+that house must speak to a cow
+that house has to speak to the goat
+that house cannot speak to this sheep
+that house can speak to that chicken
+a house speaks to a hen
+a house spoke to the pig
+a house will speak to this human
+a house has spoken to that star
+a house should play with a planet
+a house must play with the robot
+a house has to play with this pea
+a house cannot play with that book
+a house can play with a shoe
+a house plays with the sock
+the house played with this hook
+the house will play with that needle
+the house has played with a yarn
+the house should hold the sunhat
+the house must hold this car
+the house has to hold that doll
+the farm cannot hold an apple
+the farm can hold the pear
+the farm holds this orange
+the farm held that house
+this farm will hold a cow
+this farm has held the goat
+this farm should craft this sheep
+this farm must craft that chicken
+this farm has to craft a hen
+this farm cannot craft the pig
+this farm can craft this human
+this farm crafts that star
+this farm crafted a planet
+this farm will craft the robot
+that farm has crafted this pea
+that farm should dress that book
+that farm must dress a shoe
+that farm has to dress the sock
+that farm cannot dress this hook
+that farm can dress that needle
+that farm dresses a yarn
+that farm dressed the sunhat
+that farm will dress this car
+that farm has dressed that doll
+a cow should twirl around an apple
+a cow must twirl around the pear
+a cow has to twirl around this orange
+a cow cannot twirl around that house
+a cow can twirl around a farm
+a cow twirls around the goat
+a cow twirled around this sheep
+a cow will twirl around that chicken
+a cow has twirled around a hen
+a cow should orbit the pig
+the cow must orbit this human
+the cow has to orbit that star
+the cow cannot orbit a planet
+the cow can orbit the robot
+the cow orbits this pea
+the cow orbited that book
+the cow will orbit a shoe
+the cow has orbited the sock
+the cow should multiply this hook
+the cow must multiply that needle
+this cow has to multiply a yarn
+this cow cannot multiply the sunhat
+this cow can multiply this car
+this cow multiplies that doll
+this goat multiplied an apple
+this goat will multiply the pear
+this goat has multiplied this orange
+this goat should admire that house
+this goat must admire a farm
+this goat has to admire the cow
+that goat cannot admire this sheep
+that goat can admire that chicken
+that goat admires a hen
+that goat admired the pig
+that goat will admire this human
+that goat has admired that star
+that goat should pull a planet
+that goat must pull the robot
+that goat has to pull this pea
+that goat cannot pull that book
+a goat can pull a shoe
+a goat pulls the sock
+a goat pulled this hook
+a goat will pull that needle
+a goat has pulled a yarn
+a goat should write the sunhat
+a goat must write this car
+a goat has to write that doll
+a sheep cannot write an apple
+a sheep can write the pear
+the sheep writes this orange
+the sheep wrote that house
+the sheep will write a farm
+the sheep has written the cow
+the sheep should eat this goat
+the sheep must eat that chicken
+the sheep has to eat a hen
+the sheep cannot eat the pig
+the sheep can eat this human
+the sheep eats that star
+this sheep ate a planet
+this sheep will eat the robot
+this sheep has eaten this pea
+this sheep should jump over that book
+this sheep must jump over a shoe
+this sheep has to jump over the sock
+this sheep cannot jump over this hook
+this sheep can jump over that needle
+this sheep jumps over a yarn
+this sheep jumped over the sunhat
+that sheep will jump over this car
+that sheep has jumped over that doll
+that chicken should drink an apple
+that chicken must drink the pear
+that chicken has to drink this orange
+that chicken cannot drink that house
+that chicken can drink a farm
+that chicken drinks the cow
+that chicken drank this goat
+that chicken will drink that sheep
+a chicken has drank a hen
+a chicken should drown in the pig
+a chicken must drown in this human
+a chicken has to drown in that star
+a chicken cannot drown in a planet
+a chicken can drown in the robot
+a chicken drowns in this pea
+a chicken drowned in that book
+a chicken will drown in a shoe
+a chicken has drowned in the sock
+the chicken should swim across this hook
+the chicken must swim across that needle
+the chicken has to swim across a yarn
+the chicken cannot swim across the sunhat
+the chicken can swim across this car
+the chicken swims across that doll
+the hen swam across an apple
+the hen will swim across the pear
+the hen has swum across this orange
+the hen should dance with that house
+this hen must dance with a farm
+this hen has to dance with the cow
+this hen cannot dance with this goat
+this hen can dance with that sheep
+this hen dances with a chicken
+this hen danced with the pig
+this hen will dance with this human
+this hen has danced with that star
+this hen should throw a planet
+this hen must throw the robot
+that hen has to throw this pea
+that hen cannot throw that book
+that hen can throw a shoe
+that hen throws the sock
+that hen threw this hook
+that hen will throw that needle
+that hen has thrown a yarn
+that hen should paint the sunhat
+that hen must paint this car
+that hen has to paint that doll
+a pig cannot paint an apple
+a pig can paint the pear
+a pig paints this orange
+a pig painted that house
+a pig will paint a farm
+a pig has painted the cow
+a pig should draw this goat
+a pig must draw that sheep
+a pig has to draw a chicken
+a pig cannot draw the hen
+the pig can draw this human
+the pig draws that star
+the pig drew a planet
+the pig will draw the robot
+the pig has drawn this pea
+the pig should squeeze that book
+the pig must squeeze a shoe
+the pig has to squeeze the sock
+the pig cannot squeeze this hook
+the pig can squeeze that needle
+this pig squeezes a yarn
+this pig squeezed the sunhat
+this pig will squeeze this car
+this pig has squeezed that doll
+this human should create an apple
+this human must create the pear
+this human has to create this orange
+this human cannot create that house
+this human can create a farm
+this human creates the cow
+that human created this goat
+that human will create that sheep
+that human has created a chicken
+that human should speak to the hen
+that human must speak to this pig
+that human has to speak to that star
+that human cannot speak to a planet
+that human can speak to the robot
+that human speaks to this pea
+that human spoke to that book
+a human will speak to a shoe
+a human has spoken to the sock
+a human should play with this hook
+a human must play with that needle
+a human has to play with a yarn
+a human cannot play with the sunhat
+a human can play with this car
+a human plays with that doll
+a star played with an apple
+a star will play with the pear
+the star has played with this orange
+the star should hold that house
+the star must hold a farm
+the star has to hold the cow
+the star cannot hold this goat
+the star can hold that sheep
+the star holds a chicken
+the star held the hen
+the star will hold this pig
+the star has held that human
+this star should craft a planet
+this star must craft the robot
+this star has to craft this pea
+this star cannot craft that book
+this star can craft a shoe
+this star crafts the sock
+this star crafted this hook
+this star will craft that needle
+this star has crafted a yarn
+this star should dress the sunhat
+that star must dress this car
+that star has to dress that doll
+that planet cannot dress an apple
+that planet can dress the pear
+that planet dresses this orange
+that planet dressed that house
+that planet will dress a farm
+that planet has dressed the cow
+that planet should twirl around this goat
+that planet must twirl around that sheep
+a planet has to twirl around a chicken
+a planet cannot twirl around the hen
+a planet can twirl around this pig
+a planet twirls around that human
+a planet twirled around a star
+a planet will twirl around the robot
+a planet has twirled around this pea
+a planet should orbit that book
+a planet must orbit a shoe
+a planet has to orbit the sock
+the planet cannot orbit this hook
+the planet can orbit that needle
+the planet orbits a yarn
+the planet orbited the sunhat
+the planet will orbit this car
+the planet has orbited that doll
+the robot should multiply an apple
+the robot must multiply the pear
+the robot has to multiply this orange
+the robot cannot multiply that house
+this robot can multiply a farm
+this robot multiplies the cow
+this robot multiplied this goat
+this robot will multiply that sheep
+this robot has multiplied a chicken
+this robot should admire the hen
+this robot must admire this pig
+this robot has to admire that human
+this robot cannot admire a star
+this robot can admire the planet
+that robot admires this pea
+that robot admired that book
+that robot will admire a shoe
+that robot has admired the sock
+that robot should pull this hook
+that robot must pull that needle
+that robot has to pull a yarn
+that robot cannot pull the sunhat
+that robot can pull this car
+that robot pulls that doll
+a pea pulled an apple
+a pea will pull the pear
+a pea has pulled this orange
+a pea should write that house
+a pea must write a farm
+a pea has to write the cow
+a pea cannot write this goat
+a pea can write that sheep
+a pea writes a chicken
+a pea wrote the hen
+the pea will write this pig
+the pea has written that human
+the pea should eat a star
+the pea must eat the planet
+the pea has to eat this robot
+the pea cannot eat that book
+the pea can eat a shoe
+the pea eats the sock
+the pea ate this hook
+the pea will eat that needle
+this pea has eaten a yarn
+this pea should jump over the sunhat
+this pea must jump over this car
+this pea has to jump over that doll
+this book cannot jump over an apple
+this book can jump over the pear
+this book jumps over this orange
+this book jumped over that house
+this book will jump over a farm
+this book has jumped over the cow
+that book should drink this goat
+that book must drink that sheep
+that book has to drink a chicken
+that book cannot drink the hen
+that book can drink this pig
+that book drinks that human
+that book drank a star
+that book will drink the planet
+that book has drank this robot
+that book should drown in that pea
+a book must drown in a shoe
+a book has to drown in the sock
+a book cannot drown in this hook
+a book can drown in that needle
+a book drowns in a yarn
+a book drowned in the sunhat
+a book will drown in this car
+a book has drowned in that doll
+a shoe should swim across an apple
+a shoe must swim across the pear
+the shoe has to swim across this orange
+the shoe cannot swim across that house
+the shoe can swim across a farm
+the shoe swims across the cow
+the shoe swam across this goat
+the shoe will swim across that sheep
+the shoe has swum across a chicken
+the shoe should dance with the hen
+the shoe must dance with this pig
+the shoe has to dance with that human
+this shoe cannot dance with a star
+this shoe can dance with the planet
+this shoe dances with this robot
+this shoe danced with that pea
+this shoe will dance with a book
+this shoe has danced with the sock
+this shoe should throw this hook
+this shoe must throw that needle
+this shoe has to throw a yarn
+this shoe cannot throw the sunhat
+that shoe can throw this car
+that shoe throws that doll
+that sock threw an apple
+that sock will throw the pear
+that sock has thrown this orange
+that sock should paint that house
+that sock must paint a farm
+that sock has to paint the cow
+that sock cannot paint this goat
+that sock can paint that sheep
+a sock paints a chicken
+a sock painted the hen
+a sock will paint this pig
+a sock has painted that human
+a sock should draw a star
+a sock must draw the planet
+a sock has to draw this robot
+a sock cannot draw that pea
+a sock can draw a book
+a sock draws the shoe
+the sock drew this hook
+the sock will draw that needle
+the sock has drawn a yarn
+the sock should squeeze the sunhat
+the sock must squeeze this car
+the sock has to squeeze that doll
+the hook cannot squeeze an apple
+the hook can squeeze the pear
+the hook squeezes this orange
+the hook squeezed that house
+this hook will squeeze a farm
+this hook has squeezed the cow
+this hook should create this goat
+this hook must create that sheep
+this hook has to create a chicken
+this hook cannot create the hen
+this hook can create this pig
+this hook creates that human
+this hook created a star
+this hook will create the planet
+that hook has created this robot
+that hook should speak to that pea
+that hook must speak to a book
+that hook has to speak to the shoe
+that hook cannot speak to this sock
+that hook can speak to that needle
+that hook speaks to a yarn
+that hook spoke to the sunhat
+that hook will speak to this car
+that hook has spoken to that doll
+a needle should play with an apple
+a needle must play with the pear
+a needle has to play with this orange
+a needle cannot play with that house
+a needle can play with a farm
+a needle plays with the cow
+a needle played with this goat
+a needle will play with that sheep
+a needle has played with a chicken
+a needle should hold the hen
+the needle must hold this pig
+the needle has to hold that human
+the needle cannot hold a star
+the needle can hold the planet
+the needle holds this robot
+the needle held that pea
+the needle will hold a book
+the needle has held the shoe
+the needle should craft this sock
+the needle must craft that hook
+this needle has to craft a yarn
+this needle cannot craft the sunhat
+this needle can craft this car
+this needle crafts that doll
+this yarn crafted an apple
+this yarn will craft the pear
+this yarn has crafted this orange
+this yarn should dress that house
+this yarn must dress a farm
+this yarn has to dress the cow
+that yarn cannot dress this goat
+that yarn can dress that sheep
+that yarn dresses a chicken
+that yarn dressed the hen
+that yarn will dress this pig
+that yarn has dressed that human
+that yarn should twirl around a star
+that yarn must twirl around the planet
+that yarn has to twirl around this robot
+that yarn cannot twirl around that pea
+a yarn can twirl around a book
+a yarn twirls around the shoe
+a yarn twirled around this sock
+a yarn will twirl around that hook
+a yarn has twirled around a needle
+a yarn should orbit the sunhat
+a yarn must orbit this car
+a yarn has to orbit that doll
+a sunhat cannot orbit an apple
+a sunhat can orbit the pear
+the sunhat orbits this orange
+the sunhat orbited that house
+the sunhat will orbit a farm
+the sunhat has orbited the cow
+the sunhat should multiply this goat
+the sunhat must multiply that sheep
+the sunhat has to multiply a chicken
+the sunhat cannot multiply the hen
+the sunhat can multiply this pig
+the sunhat multiplies that human
+this sunhat multiplied a star
+this sunhat will multiply the planet
+this sunhat has multiplied this robot
+this sunhat should admire that pea
+this sunhat must admire a book
+this sunhat has to admire the shoe
+this sunhat cannot admire this sock
+this sunhat can admire that hook
+this sunhat admires a needle
+this sunhat admired the yarn
+that sunhat will admire this car
+that sunhat has admired that doll
+that car should pull an apple
+that car must pull the pear
+that car has to pull this orange
+that car cannot pull that house
+that car can pull a farm
+that car pulls the cow
+that car pulled this goat
+that car will pull that sheep
+a car has pulled a chicken
+a car should write the hen
+a car must write this pig
+a car has to write that human
+a car cannot write a star
+a car can write the planet
+a car writes this robot
+a car wrote that pea
+a car will write a book
+a car has written the shoe
+the car should eat this sock
+the car must eat that hook
+the car has to eat a needle
+the car cannot eat the yarn
+the car can eat this sunhat
+the car eats that doll
+the doll ate an apple
+the doll will eat the pear
+the doll has eaten this orange
+the doll should jump over that house
+this doll must jump over a farm
+this doll has to jump over the cow
+this doll cannot jump over this goat
+this doll can jump over that sheep
+this doll jumps over a chicken
+this doll jumped over the hen
+this doll will jump over this pig
+this doll has jumped over that human
+this doll should drink a star
+this doll must drink the planet
+that doll has to drink this robot
+that doll cannot drink that pea
+that doll can drink a book
+that doll drinks the shoe
+that doll drank this sock
+that doll will drink that hook
+that doll has drank a needle
+that doll should drown in the yarn
+that doll must drown in this sunhat
+that doll has to drown in that car
+an apple cannot drown in a pear
+an apple can drown in the orange
+an apple drowns in this house
+an apple drowned in that farm
+an apple will drown in a cow
+an apple has drowned in the goat
+an apple should swim across this sheep
+an apple must swim across that chicken
+an apple has to swim across a hen
+an apple cannot swim across the pig
+the apple can swim across this human
+the apple swims across that star
+the apple swam across a planet
+the apple will swim across the robot
+the apple has swum across this pea
+the apple should dance with that book
+the apple must dance with a shoe
+the apple has to dance with the sock
+the apple cannot dance with this hook
+the apple can dance with that needle
+this apple dances with a yarn
+this apple danced with the sunhat
+this apple will dance with this car
+this apple has danced with that doll
+this pear should throw an apple
+this pear must throw the orange
+this pear has to throw this house
+this pear cannot throw that farm
+this pear can throw a cow
+this pear throws the goat
+that pear threw this sheep
+that pear will throw that chicken
+that pear has thrown a hen
+that pear should paint the pig
+that pear must paint this human
+that pear has to paint that star
+that pear cannot paint a planet
+that pear can paint the robot
+that pear paints this pea
+that pear painted that book
+a pear will paint a shoe
+a pear has painted the sock
+a pear should draw this hook
+a pear must draw that needle
+a pear has to draw a yarn
+a pear cannot draw the sunhat
+a pear can draw this car
+a pear draws that doll
+an orange drew an apple
+an orange will draw the pear
+the orange has drawn this house
+the orange should squeeze that farm
+the orange must squeeze a cow
+the orange has to squeeze the goat
+the orange cannot squeeze this sheep
+the orange can squeeze that chicken
+the orange squeezes a hen
+the orange squeezed the pig
+the orange will squeeze this human
+the orange has squeezed that star
+this orange should create a planet
+this orange must create the robot
+this orange has to create this pea
+this orange cannot create that book
+this orange can create a shoe
+this orange creates the sock
+this orange created this hook
+this orange will create that needle
+this orange has created a yarn
+this orange should speak to the sunhat
+that orange must speak to this car
+that orange has to speak to that doll
+that house cannot speak to an apple
+that house can speak to the pear
+that house speaks to this orange
+that house spoke to that farm
+that house will speak to a cow
+that house has spoken to the goat
+that house should play with this sheep
+that house must play with that chicken
+a house has to play with a hen
+a house cannot play with the pig
+a house can play with this human
+a house plays with that star
+a house played with a planet
+a house will play with the robot
+a house has played with this pea
+a house should hold that book
+a house must hold a shoe
+a house has to hold the sock
+the house cannot hold this hook
+the house can hold that needle
+the house holds a yarn
+the house held the sunhat
+the house will hold this car
+the house has held that doll
+the farm should craft an apple
+the farm must craft the pear
+the farm has to craft this orange
+the farm cannot craft that house
+this farm can craft a cow
+this farm crafts the goat
+this farm crafted this sheep
+this farm will craft that chicken
+this farm has crafted a hen
+this farm should dress the pig
+this farm must dress this human
+this farm has to dress that star
+this farm cannot dress a planet
+this farm can dress the robot
+that farm dresses this pea
+that farm dressed that book
+that farm will dress a shoe
+that farm has dressed the sock
+that farm should twirl around this hook
+that farm must twirl around that needle
+that farm has to twirl around a yarn
+that farm cannot twirl around the sunhat
+that farm can twirl around this car
+that farm twirls around that doll
+a cow twirled around an apple
+a cow will twirl around the pear
+a cow has twirled around this orange
+a cow should orbit that house
+a cow must orbit a farm
+a cow has to orbit the goat
+a cow cannot orbit this sheep
+a cow can orbit that chicken
+a cow orbits a hen
+a cow orbited the pig
+the cow will orbit this human
+the cow has orbited that star
+the cow should multiply a planet
+the cow must multiply the robot
+the cow has to multiply this pea
+the cow cannot multiply that book
+the cow can multiply a shoe
+the cow multiplies the sock
+the cow multiplied this hook
+the cow will multiply that needle
+this cow has multiplied a yarn
+this cow should admire the sunhat
+this cow must admire this car
+this cow has to admire that doll
+this goat cannot admire an apple
+this goat can admire the pear
+this goat admires this orange
+this goat admired that house
+this goat will admire a farm
+this goat has admired the cow
+that goat should pull this sheep
+that goat must pull that chicken
+that goat has to pull a hen
+that goat cannot pull the pig
+that goat can pull this human
+that goat pulls that star
+that goat pulled a planet
+that goat will pull the robot
+that goat has pulled this pea
+that goat should write that book
+a goat must write a shoe
+a goat has to write the sock
+a goat cannot write this hook
+a goat can write that needle
+a goat writes a yarn
+a goat wrote the sunhat
+a goat will write this car
+a goat has written that doll
+a sheep should eat an apple
+a sheep must eat the pear
+the sheep has to eat this orange
+the sheep cannot eat that house
+the sheep can eat a farm
+the sheep eats the cow
+the sheep ate this goat
+the sheep will eat that chicken
+the sheep has eaten a hen
+the sheep should jump over the pig
+the sheep must jump over this human
+the sheep has to jump over that star
+this sheep cannot jump over a planet
+this sheep can jump over the robot
+this sheep jumps over this pea
+this sheep jumped over that book
+this sheep will jump over a shoe
+this sheep has jumped over the sock
+this sheep should drink this hook
+this sheep must drink that needle
+this sheep has to drink a yarn
+this sheep cannot drink the sunhat
+that sheep can drink this car
+that sheep drinks that doll
+that chicken drank an apple
+that chicken will drink the pear
+that chicken has drank this orange
+that chicken should drown in that house
+that chicken must drown in a farm
+that chicken has to drown in the cow
+that chicken cannot drown in this goat
+that chicken can drown in that sheep
+a chicken drowns in a hen
+a chicken drowned in the pig
+a chicken will drown in this human
+a chicken has drowned in that star
+a chicken should swim across a planet
+a chicken must swim across the robot
+a chicken has to swim across this pea
+a chicken cannot swim across that book
+a chicken can swim across a shoe
+a chicken swims across the sock
+the chicken swam across this hook
+the chicken will swim across that needle
+the chicken has swum across a yarn
+the chicken should dance with the sunhat
+the chicken must dance with this car
+the chicken has to dance with that doll
+the hen cannot dance with an apple
+the hen can dance with the pear
+the hen dances with this orange
+the hen danced with that house
+this hen will dance with a farm
+this hen has danced with the cow
+this hen should throw this goat
+this hen must throw that sheep
+this hen has to throw a chicken
+this hen cannot throw the pig
+this hen can throw this human
+this hen throws that star
+this hen threw a planet
+this hen will throw the robot
+that hen has thrown this pea
+that hen should paint that book
+that hen must paint a shoe
+that hen has to paint the sock
+that hen cannot paint this hook
+that hen can paint that needle
+that hen paints a yarn
+that hen painted the sunhat
+that hen will paint this car
+that hen has painted that doll
+a pig should draw an apple
+a pig must draw the pear
+a pig has to draw this orange
+a pig cannot draw that house
+a pig can draw a farm
+a pig draws the cow
+a pig drew this goat
+a pig will draw that sheep
+a pig has drawn a chicken
+a pig should squeeze the hen
+the pig must squeeze this human
+the pig has to squeeze that star
+the pig cannot squeeze a planet
+the pig can squeeze the robot
+the pig squeezes this pea
+the pig squeezed that book
+the pig will squeeze a shoe
+the pig has squeezed the sock
+the pig should create this hook
+the pig must create that needle
+this pig has to create a yarn
+this pig cannot create the sunhat
+this pig can create this car
+this pig creates that doll
+this human created an apple
+this human will create the pear
+this human has created this orange
+this human should speak to that house
+this human must speak to a farm
+this human has to speak to the cow
+that human cannot speak to this goat
+that human can speak to that sheep
+that human speaks to a chicken
+that human spoke to the hen
+that human will speak to this pig
+that human has spoken to that star
+that human should play with a planet
+that human must play with the robot
+that human has to play with this pea
+that human cannot play with that book
+a human can play with a shoe
+a human plays with the sock
+a human played with this hook
+a human will play with that needle
+a human has played with a yarn
+a human should hold the sunhat
+a human must hold this car
+a human has to hold that doll
+a star cannot hold an apple
+a star can hold the pear
+the star holds this orange
+the star held that house
+the star will hold a farm
+the star has held the cow
+the star should craft this goat
+the star must craft that sheep
+the star has to craft a chicken
+the star cannot craft the hen
+the star can craft this pig
+the star crafts that human
+this star crafted a planet
+this star will craft the robot
+this star has crafted this pea
+this star should dress that book
+this star must dress a shoe
+this star has to dress the sock
+this star cannot dress this hook
+this star can dress that needle
+this star dresses a yarn
+this star dressed the sunhat
+that star will dress this car
+that star has dressed that doll
+that planet should twirl around an apple
+that planet must twirl around the pear
+that planet has to twirl around this orange
+that planet cannot twirl around that house
+that planet can twirl around a farm
+that planet twirls around the cow
+that planet twirled around this goat
+that planet will twirl around that sheep
+a planet has twirled around a chicken
+a planet should orbit the hen
+a planet must orbit this pig
+a planet has to orbit that human
+a planet cannot orbit a star
+a planet can orbit the robot
+a planet orbits this pea
+a planet orbited that book
+a planet will orbit a shoe
+a planet has orbited the sock
+the planet should multiply this hook
+the planet must multiply that needle
+the planet has to multiply a yarn
+the planet cannot multiply the sunhat
+the planet can multiply this car
+the planet multiplies that doll
+the robot multiplied an apple
+the robot will multiply the pear
+the robot has multiplied this orange
+the robot should admire that house
+this robot must admire a farm
+this robot has to admire the cow
+this robot cannot admire this goat
+this robot can admire that sheep
+this robot admires a chicken
+this robot admired the hen
+this robot will admire this pig
+this robot has admired that human
+this robot should pull a star
+this robot must pull the planet
+that robot has to pull this pea
+that robot cannot pull that book
+that robot can pull a shoe
+that robot pulls the sock
+that robot pulled this hook
+that robot will pull that needle
+that robot has pulled a yarn
+that robot should write the sunhat
+that robot must write this car
+that robot has to write that doll
+a pea cannot write an apple
+a pea can write the pear
+a pea writes this orange
+a pea wrote that house
+a pea will write a farm
+a pea has written the cow
+a pea should eat this goat
+a pea must eat that sheep
+a pea has to eat a chicken
+a pea cannot eat the hen
+the pea can eat this pig
+the pea eats that human
+the pea ate a star
+the pea will eat the planet
+the pea has eaten this robot
+the pea should jump over that book
+the pea must jump over a shoe
+the pea has to jump over the sock
+the pea cannot jump over this hook
+the pea can jump over that needle
+this pea jumps over a yarn
+this pea jumped over the sunhat
+this pea will jump over this car
+this pea has jumped over that doll
+this book should drink an apple
+this book must drink the pear
+this book has to drink this orange
+this book cannot drink that house
+this book can drink a farm
+this book drinks the cow
+that book drank this goat
+that book will drink that sheep
+that book has drank a chicken
+that book should drown in the hen
+that book must drown in this pig
+that book has to drown in that human
+that book cannot drown in a star
+that book can drown in the planet
+that book drowns in this robot
+that book drowned in that pea
+a book will drown in a shoe
+a book has drowned in the sock
+a book should swim across this hook
+a book must swim across that needle
+a book has to swim across a yarn
+a book cannot swim across the sunhat
+a book can swim across this car
+a book swims across that doll
+a shoe swam across an apple
+a shoe will swim across the pear
+the shoe has swum across this orange
+the shoe should dance with that house
+the shoe must dance with a farm
+the shoe has to dance with the cow
+the shoe cannot dance with this goat
+the shoe can dance with that sheep
+the shoe dances with a chicken
+the shoe danced with the hen
+the shoe will dance with this pig
+the shoe has danced with that human
+this shoe should throw a star
+this shoe must throw the planet
+this shoe has to throw this robot
+this shoe cannot throw that pea
+this shoe can throw a book
+this shoe throws the sock
+this shoe threw this hook
+this shoe will throw that needle
+this shoe has thrown a yarn
+this shoe should paint the sunhat
+that shoe must paint this car
+that shoe has to paint that doll
+that sock cannot paint an apple
+that sock can paint the pear
+that sock paints this orange
+that sock painted that house
+that sock will paint a farm
+that sock has painted the cow
+that sock should draw this goat
+that sock must draw that sheep
+a sock has to draw a chicken
+a sock cannot draw the hen
+a sock can draw this pig
+a sock draws that human
+a sock drew a star
+a sock will draw the planet
+a sock has drawn this robot
+a sock should squeeze that pea
+a sock must squeeze a book
+a sock has to squeeze the shoe
+the sock cannot squeeze this hook
+the sock can squeeze that needle
+the sock squeezes a yarn
+the sock squeezed the sunhat
+the sock will squeeze this car
+the sock has squeezed that doll
+the hook should create an apple
+the hook must create the pear
+the hook has to create this orange
+the hook cannot create that house
+this hook can create a farm
+this hook creates the cow
+this hook created this goat
+this hook will create that sheep
+this hook has created a chicken
+this hook should speak to the hen
+this hook must speak to this pig
+this hook has to speak to that human
+this hook cannot speak to a star
+this hook can speak to the planet
+that hook speaks to this robot
+that hook spoke to that pea
+that hook will speak to a book
+that hook has spoken to the shoe
+that hook should play with this sock
+that hook must play with that needle
+that hook has to play with a yarn
+that hook cannot play with the sunhat
+that hook can play with this car
+that hook plays with that doll
+a needle played with an apple
+a needle will play with the pear
+a needle has played with this orange
+a needle should hold that house
+a needle must hold a farm
+a needle has to hold the cow
+a needle cannot hold this goat
+a needle can hold that sheep
+a needle holds a chicken
+a needle held the hen
+the needle will hold this pig
+the needle has held that human
+the needle should craft a star
+the needle must craft the planet
+the needle has to craft this robot
+the needle cannot craft that pea
+the needle can craft a book
+the needle crafts the shoe
+the needle crafted this sock
+the needle will craft that hook
+this needle has crafted a yarn
+this needle should dress the sunhat
+this needle must dress this car
+this needle has to dress that doll
+this yarn cannot dress an apple
+this yarn can dress the pear
+this yarn dresses this orange
+this yarn dressed that house
+this yarn will dress a farm
+this yarn has dressed the cow
+that yarn should twirl around this goat
+that yarn must twirl around that sheep
+that yarn has to twirl around a chicken
+that yarn cannot twirl around the hen
+that yarn can twirl around this pig
+that yarn twirls around that human
+that yarn twirled around a star
+that yarn will twirl around the planet
+that yarn has twirled around this robot
+that yarn should orbit that pea
+a yarn must orbit a book
+a yarn has to orbit the shoe
+a yarn cannot orbit this sock
+a yarn can orbit that hook
+a yarn orbits a needle
+a yarn orbited the sunhat
+a yarn will orbit this car
+a yarn has orbited that doll
+a sunhat should multiply an apple
+a sunhat must multiply the pear
+the sunhat has to multiply this orange
+the sunhat cannot multiply that house
+the sunhat can multiply a farm
+the sunhat multiplies the cow
+the sunhat multiplied this goat
+the sunhat will multiply that sheep
+the sunhat has multiplied a chicken
+the sunhat should admire the hen
+the sunhat must admire this pig
+the sunhat has to admire that human
+this sunhat cannot admire a star
+this sunhat can admire the planet
+this sunhat admires this robot
+this sunhat admired that pea
+this sunhat will admire a book
+this sunhat has admired the shoe
+this sunhat should pull this sock
+this sunhat must pull that hook
+this sunhat has to pull a needle
+this sunhat cannot pull the yarn
+that sunhat can pull this car
+that sunhat pulls that doll
+that car pulled an apple
+that car will pull the pear
+that car has pulled this orange
+that car should write that house
+that car must write a farm
+that car has to write the cow
+that car cannot write this goat
+that car can write that sheep
+a car writes a chicken
+a car wrote the hen
+a car will write this pig
+a car has written that human
+a car should eat a star
+a car must eat the planet
+a car has to eat this robot
+a car cannot eat that pea
+a car can eat a book
+a car eats the shoe
+the car ate this sock
+the car will eat that hook
+the car has eaten a needle
+the car should jump over the yarn
+the car must jump over this sunhat
+the car has to jump over that doll
+the doll cannot jump over an apple
+the doll can jump over the pear
+the doll jumps over this orange
+the doll jumped over that house
+this doll will jump over a farm
+this doll has jumped over the cow
+this doll should drink this goat
+this doll must drink that sheep
+this doll has to drink a chicken
+this doll cannot drink the hen
+this doll can drink this pig
+this doll drinks that human
+this doll drank a star
+this doll will drink the planet
+that doll has drank this robot
+that doll should drown in that pea
+that doll must drown in a book
+that doll has to drown in the shoe
+that doll cannot drown in this sock
+that doll can drown in that hook
+that doll drowns in a needle
+that doll drowned in the yarn
+that doll will drown in this sunhat
+that doll has drowned in that car
+an apple should swim across a pear
+an apple must swim across the orange
+an apple has to swim across this house
+an apple cannot swim across that farm
+an apple can swim across a cow
+an apple swims across the goat
+an apple swam across this sheep
+an apple will swim across that chicken
+an apple has swum across a hen
+an apple should dance with the pig
+the apple must dance with this human
+the apple has to dance with that star
+the apple cannot dance with a planet
+the apple can dance with the robot
+the apple dances with this pea
+the apple danced with that book
+the apple will dance with a shoe
+the apple has danced with the sock
+the apple should throw this hook
+the apple must throw that needle
+this apple has to throw a yarn
+this apple cannot throw the sunhat
+this apple can throw this car
+this apple throws that doll
+this pear threw an apple
+this pear will throw the orange
+this pear has thrown this house
+this pear should paint that farm
+this pear must paint a cow
+this pear has to paint the goat
+that pear cannot paint this sheep
+that pear can paint that chicken
+that pear paints a hen
+that pear painted the pig
+that pear will paint this human
+that pear has painted that star
+that pear should draw a planet
+that pear must draw the robot
+that pear has to draw this pea
+that pear cannot draw that book
+a pear can draw a shoe
+a pear draws the sock
+a pear drew this hook
+a pear will draw that needle
+a pear has drawn a yarn
+a pear should squeeze the sunhat
+a pear must squeeze this car
+a pear has to squeeze that doll
+an orange cannot squeeze an apple
+an orange can squeeze the pear
+the orange squeezes this house
+the orange squeezed that farm
+the orange will squeeze a cow
+the orange has squeezed the goat
+the orange should create this sheep
+the orange must create that chicken
+the orange has to create a hen
+the orange cannot create the pig
+the orange can create this human
+the orange creates that star
+this orange created a planet
+this orange will create the robot
+this orange has created this pea
+this orange should speak to that book
+this orange must speak to a shoe
+this orange has to speak to the sock
+this orange cannot speak to this hook
+this orange can speak to that needle
+this orange speaks to a yarn
+this orange spoke to the sunhat
+that orange will speak to this car
+that orange has spoken to that doll
+that house should play with an apple
+that house must play with the pear
+that house has to play with this orange
+that house cannot play with that farm
+that house can play with a cow
+that house plays with the goat
+that house played with this sheep
+that house will play with that chicken
+a house has played with a hen
+a house should hold the pig
+a house must hold this human
+a house has to hold that star
+a house cannot hold a planet
+a house can hold the robot
+a house holds this pea
+a house held that book
+a house will hold a shoe
+a house has held the sock
+the house should craft this hook
+the house must craft that needle
+the house has to craft a yarn
+the house cannot craft the sunhat
+the house can craft this car
+the house crafts that doll
+the farm crafted an apple
+the farm will craft the pear
+the farm has crafted this orange
+the farm should dress that house
+this farm must dress a cow
+this farm has to dress the goat
+this farm cannot dress this sheep
+this farm can dress that chicken
+this farm dresses a hen
+this farm dressed the pig
+this farm will dress this human
+this farm has dressed that star
+this farm should twirl around a planet
+this farm must twirl around the robot
+that farm has to twirl around this pea
+that farm cannot twirl around that book
+that farm can twirl around a shoe
+that farm twirls around the sock
+that farm twirled around this hook
+that farm will twirl around that needle
+that farm has twirled around a yarn
+that farm should orbit the sunhat
+that farm must orbit this car
+that farm has to orbit that doll
+a cow cannot orbit an apple
+a cow can orbit the pear
+a cow orbits this orange
+a cow orbited that house
+a cow will orbit a farm
+a cow has orbited the goat
+a cow should multiply this sheep
+a cow must multiply that chicken
+a cow has to multiply a hen
+a cow cannot multiply the pig
+the cow can multiply this human
+the cow multiplies that star
+the cow multiplied a planet
+the cow will multiply the robot
+the cow has multiplied this pea
+the cow should admire that book
+the cow must admire a shoe
+the cow has to admire the sock
+the cow cannot admire this hook
+the cow can admire that needle
+this cow admires a yarn
+this cow admired the sunhat
+this cow will admire this car
+this cow has admired that doll
+this goat should pull an apple
+this goat must pull the pear
+this goat has to pull this orange
+this goat cannot pull that house
+this goat can pull a farm
+this goat pulls the cow
+that goat pulled this sheep
+that goat will pull that chicken
+that goat has pulled a hen
+that goat should write the pig
+that goat must write this human
+that goat has to write that star
+that goat cannot write a planet
+that goat can write the robot
+that goat writes this pea
+that goat wrote that book
+a goat will write a shoe
+a goat has written the sock
+a goat should eat this hook
+a goat must eat that needle
+a goat has to eat a yarn
+a goat cannot eat the sunhat
+a goat can eat this car
+a goat eats that doll
+a sheep ate an apple
+a sheep will eat the pear
+the sheep has eaten this orange
+the sheep should jump over that house
+the sheep must jump over a farm
+the sheep has to jump over the cow
+the sheep cannot jump over this goat
+the sheep can jump over that chicken
+the sheep jumps over a hen
+the sheep jumped over the pig
+the sheep will jump over this human
+the sheep has jumped over that star
+this sheep should drink a planet
+this sheep must drink the robot
+this sheep has to drink this pea
+this sheep cannot drink that book
+this sheep can drink a shoe
+this sheep drinks the sock
+this sheep drank this hook
+this sheep will drink that needle
+this sheep has drank a yarn
+this sheep should drown in the sunhat
+that sheep must drown in this car
+that sheep has to drown in that doll
+that chicken cannot drown in an apple
+that chicken can drown in the pear
+that chicken drowns in this orange
+that chicken drowned in that house
+that chicken will drown in a farm
+that chicken has drowned in the cow
+that chicken should swim across this goat
+that chicken must swim across that sheep
+a chicken has to swim across a hen
+a chicken cannot swim across the pig
+a chicken can swim across this human
+a chicken swims across that star
+a chicken swam across a planet
+a chicken will swim across the robot
+a chicken has swum across this pea
+a chicken should dance with that book
+a chicken must dance with a shoe
+a chicken has to dance with the sock
+the chicken cannot dance with this hook
+the chicken can dance with that needle
+the chicken dances with a yarn
+the chicken danced with the sunhat
+the chicken will dance with this car
+the chicken has danced with that doll
+the hen should throw an apple
+the hen must throw the pear
+the hen has to throw this orange
+the hen cannot throw that house
+this hen can throw a farm
+this hen throws the cow
+this hen threw this goat
+this hen will throw that sheep
+this hen has thrown a chicken
+this hen should paint the pig
+this hen must paint this human
+this hen has to paint that star
+this hen cannot paint a planet
+this hen can paint the robot
+that hen paints this pea
+that hen painted that book
+that hen will paint a shoe
+that hen has painted the sock
+that hen should draw this hook
+that hen must draw that needle
+that hen has to draw a yarn
+that hen cannot draw the sunhat
+that hen can draw this car
+that hen draws that doll
+a pig drew an apple
+a pig will draw the pear
+a pig has drawn this orange
+a pig should squeeze that house
+a pig must squeeze a farm
+a pig has to squeeze the cow
+a pig cannot squeeze this goat
+a pig can squeeze that sheep
+a pig squeezes a chicken
+a pig squeezed the hen
+the pig will squeeze this human
+the pig has squeezed that star
+the pig should create a planet
+the pig must create the robot
+the pig has to create this pea
+the pig cannot create that book
+the pig can create a shoe
+the pig creates the sock
+the pig created this hook
+the pig will create that needle
+this pig has created a yarn
+this pig should speak to the sunhat
+this pig must speak to this car
+this pig has to speak to that doll
+this human cannot speak to an apple
+this human can speak to the pear
+this human speaks to this orange
+this human spoke to that house
+this human will speak to a farm
+this human has spoken to the cow
+that human should play with this goat
+that human must play with that sheep
+that human has to play with a chicken
+that human cannot play with the hen
+that human can play with this pig
+that human plays with that star
+that human played with a planet
+that human will play with the robot
+that human has played with this pea
+that human should hold that book
+a human must hold a shoe
+a human has to hold the sock
+a human cannot hold this hook
+a human can hold that needle
+a human holds a yarn
+a human held the sunhat
+a human will hold this car
+a human has held that doll
+a star should craft an apple
+a star must craft the pear
+the star has to craft this orange
+the star cannot craft that house
+the star can craft a farm
+the star crafts the cow
+the star crafted this goat
+the star will craft that sheep
+the star has crafted a chicken
+the star should dress the hen
+the star must dress this pig
+the star has to dress that human
+this star cannot dress a planet
+this star can dress the robot
+this star dresses this pea
+this star dressed that book
+this star will dress a shoe
+this star has dressed the sock
+this star should twirl around this hook
+this star must twirl around that needle
+this star has to twirl around a yarn
+this star cannot twirl around the sunhat
+that star can twirl around this car
+that star twirls around that doll
+that planet twirled around an apple
+that planet will twirl around the pear
+that planet has twirled around this orange
+that planet should orbit that house
+that planet must orbit a farm
+that planet has to orbit the cow
+that planet cannot orbit this goat
+that planet can orbit that sheep
+a planet orbits a chicken
+a planet orbited the hen
+a planet will orbit this pig
+a planet has orbited that human
+a planet should multiply a star
+a planet must multiply the robot
+a planet has to multiply this pea
+a planet cannot multiply that book
+a planet can multiply a shoe
+a planet multiplies the sock
+the planet multiplied this hook
+the planet will multiply that needle
+the planet has multiplied a yarn
+the planet should admire the sunhat
+the planet must admire this car
+the planet has to admire that doll
+the robot cannot admire an apple
+the robot can admire the pear
+the robot admires this orange
+the robot admired that house
+this robot will admire a farm
+this robot has admired the cow
+this robot should pull this goat
+this robot must pull that sheep
+this robot has to pull a chicken
+this robot cannot pull the hen
+this robot can pull this pig
+this robot pulls that human
+this robot pulled a star
+this robot will pull the planet
+that robot has pulled this pea
+that robot should write that book
+that robot must write a shoe
+that robot has to write the sock
+that robot cannot write this hook
+that robot can write that needle
+that robot writes a yarn
+that robot wrote the sunhat
+that robot will write this car
+that robot has written that doll
+a pea should eat an apple
+a pea must eat the pear
+a pea has to eat this orange
+a pea cannot eat that house
+a pea can eat a farm
+a pea eats the cow
+a pea ate this goat
+a pea will eat that sheep
+a pea has eaten a chicken
+a pea should jump over the hen
+the pea must jump over this pig
+the pea has to jump over that human
+the pea cannot jump over a star
+the pea can jump over the planet
+the pea jumps over this robot
+the pea jumped over that book
+the pea will jump over a shoe
+the pea has jumped over the sock
+the pea should drink this hook
+the pea must drink that needle
+this pea has to drink a yarn
+this pea cannot drink the sunhat
+this pea can drink this car
+this pea drinks that doll
+this book drank an apple
+this book will drink the pear
+this book has drank this orange
+this book should drown in that house
+this book must drown in a farm
+this book has to drown in the cow
+that book cannot drown in this goat
+that book can drown in that sheep
+that book drowns in a chicken
+that book drowned in the hen
+that book will drown in this pig
+that book has drowned in that human
+that book should swim across a star
+that book must swim across the planet
+that book has to swim across this robot
+that book cannot swim across that pea
+a book can swim across a shoe
+a book swims across the sock
+a book swam across this hook
+a book will swim across that needle
+a book has swum across a yarn
+a book should dance with the sunhat
+a book must dance with this car
+a book has to dance with that doll
+a shoe cannot dance with an apple
+a shoe can dance with the pear
+the shoe dances with this orange
+the shoe danced with that house
+the shoe will dance with a farm
+the shoe has danced with the cow
+the shoe should throw this goat
+the shoe must throw that sheep
+the shoe has to throw a chicken
+the shoe cannot throw the hen
+the shoe can throw this pig
+the shoe throws that human
+this shoe threw a star
+this shoe will throw the planet
+this shoe has thrown this robot
+this shoe should paint that pea
+this shoe must paint a book
+this shoe has to paint the sock
+this shoe cannot paint this hook
+this shoe can paint that needle
+this shoe paints a yarn
+this shoe painted the sunhat
+that shoe will paint this car
+that shoe has painted that doll
+that sock should draw an apple
+that sock must draw the pear
+that sock has to draw this orange
+that sock cannot draw that house
+that sock can draw a farm
+that sock draws the cow
+that sock drew this goat
+that sock will draw that sheep
+a sock has drawn a chicken
+a sock should squeeze the hen
+a sock must squeeze this pig
+a sock has to squeeze that human
+a sock cannot squeeze a star
+a sock can squeeze the planet
+a sock squeezes this robot
+a sock squeezed that pea
+a sock will squeeze a book
+a sock has squeezed the shoe
+the sock should create this hook
+the sock must create that needle
+the sock has to create a yarn
+the sock cannot create the sunhat
+the sock can create this car
+the sock creates that doll
+the hook created an apple
+the hook will create the pear
+the hook has created this orange
+the hook should speak to that house
+this hook must speak to a farm
+this hook has to speak to the cow
+this hook cannot speak to this goat
+this hook can speak to that sheep
+this hook speaks to a chicken
+this hook spoke to the hen
+this hook will speak to this pig
+this hook has spoken to that human
+this hook should play with a star
+this hook must play with the planet
+that hook has to play with this robot
+that hook cannot play with that pea
+that hook can play with a book
+that hook plays with the shoe
+that hook played with this sock
+that hook will play with that needle
+that hook has played with a yarn
+that hook should hold the sunhat
+that hook must hold this car
+that hook has to hold that doll
+a needle cannot hold an apple
+a needle can hold the pear
+a needle holds this orange
+a needle held that house
+a needle will hold a farm
+a needle has held the cow
+a needle should craft this goat
+a needle must craft that sheep
+a needle has to craft a chicken
+a needle cannot craft the hen
+the needle can craft this pig
+the needle crafts that human
+the needle crafted a star
+the needle will craft the planet
+the needle has crafted this robot
+the needle should dress that pea
+the needle must dress a book
+the needle has to dress the shoe
+the needle cannot dress this sock
+the needle can dress that hook
+this needle dresses a yarn
+this needle dressed the sunhat
+this needle will dress this car
+this needle has dressed that doll
+this yarn should twirl around an apple
+this yarn must twirl around the pear
+this yarn has to twirl around this orange
+this yarn cannot twirl around that house
+this yarn can twirl around a farm
+this yarn twirls around the cow
+that yarn twirled around this goat
+that yarn will twirl around that sheep
+that yarn has twirled around a chicken
+that yarn should orbit the hen
+that yarn must orbit this pig
+that yarn has to orbit that human
+that yarn cannot orbit a star
+that yarn can orbit the planet
+that yarn orbits this robot
+that yarn orbited that pea
+a yarn will orbit a book
+a yarn has orbited the shoe
+a yarn should multiply this sock
+a yarn must multiply that hook
+a yarn has to multiply a needle
+a yarn cannot multiply the sunhat
+a yarn can multiply this car
+a yarn multiplies that doll
+a sunhat multiplied an apple
+a sunhat will multiply the pear
+the sunhat has multiplied this orange
+the sunhat should admire that house
+the sunhat must admire a farm
+the sunhat has to admire the cow
+the sunhat cannot admire this goat
+the sunhat can admire that sheep
+the sunhat admires a chicken
+the sunhat admired the hen
+the sunhat will admire this pig
+the sunhat has admired that human
+this sunhat should pull a star
+this sunhat must pull the planet
+this sunhat has to pull this robot
+this sunhat cannot pull that pea
+this sunhat can pull a book
+this sunhat pulls the shoe
+this sunhat pulled this sock
+this sunhat will pull that hook
+this sunhat has pulled a needle
+this sunhat should write the yarn
+that sunhat must write this car
+that sunhat has to write that doll
+that car cannot write an apple
+that car can write the pear
+that car writes this orange
+that car wrote that house
+that car will write a farm
+that car has written the cow
+that car should eat this goat
+that car must eat that sheep
+a car has to eat a chicken
+a car cannot eat the hen
+a car can eat this pig
+a car eats that human
+a car ate a star
+a car will eat the planet
+a car has eaten this robot
+a car should jump over that pea
+a car must jump over a book
+a car has to jump over the shoe
+the car cannot jump over this sock
+the car can jump over that hook
+the car jumps over a needle
+the car jumped over the yarn
+the car will jump over this sunhat
+the car has jumped over that doll
+the doll should drink an apple
+the doll must drink the pear
+the doll has to drink this orange
+the doll cannot drink that house
+this doll can drink a farm
+this doll drinks the cow
+this doll drank this goat
+this doll will drink that sheep
+this doll has drank a chicken
+this doll should drown in the hen
+this doll must drown in this pig
+this doll has to drown in that human
+this doll cannot drown in a star
+this doll can drown in the planet
+that doll drowns in this robot
+that doll drowned in that pea
+that doll will drown in a book
+that doll has drowned in the shoe
+that doll should swim across this sock
+that doll must swim across that hook
+that doll has to swim across a needle
+that doll cannot swim across the yarn
+that doll can swim across this sunhat
+that doll swims across that car
+an apple swam across a pear
+an apple will swim across the orange
+an apple has swum across this house
+an apple should dance with that farm
+an apple must dance with a cow
+an apple has to dance with the goat
+an apple cannot dance with this sheep
+an apple can dance with that chicken
+an apple dances with a hen
+an apple danced with the pig
+the apple will dance with this human
+the apple has danced with that star
+the apple should throw a planet
+the apple must throw the robot
+the apple has to throw this pea
+the apple cannot throw that book
+the apple can throw a shoe
+the apple throws the sock
+the apple threw this hook
+the apple will throw that needle
+this apple has thrown a yarn
+this apple should paint the sunhat
+this apple must paint this car
+this apple has to paint that doll
+this pear cannot paint an apple
+this pear can paint the orange
+this pear paints this house
+this pear painted that farm
+this pear will paint a cow
+this pear has painted the goat
+that pear should draw this sheep
+that pear must draw that chicken
+that pear has to draw a hen
+that pear cannot draw the pig
+that pear can draw this human
+that pear draws that star
+that pear drew a planet
+that pear will draw the robot
+that pear has drawn this pea
+that pear should squeeze that book
+a pear must squeeze a shoe
+a pear has to squeeze the sock
+a pear cannot squeeze this hook
+a pear can squeeze that needle
+a pear squeezes a yarn
+a pear squeezed the sunhat
+a pear will squeeze this car
+a pear has squeezed that doll
+an orange should create an apple
+an orange must create the pear
+the orange has to create this house
+the orange cannot create that farm
+the orange can create a cow
+the orange creates the goat
+the orange created this sheep
+the orange will create that chicken
+the orange has created a hen
+the orange should speak to the pig
+the orange must speak to this human
+the orange has to speak to that star
+this orange cannot speak to a planet
+this orange can speak to the robot
+this orange speaks to this pea
+this orange spoke to that book
+this orange will speak to a shoe
+this orange has spoken to the sock
+this orange should play with this hook
+this orange must play with that needle
+this orange has to play with a yarn
+this orange cannot play with the sunhat
+that orange can play with this car
+that orange plays with that doll
+that house played with an apple
+that house will play with the pear
+that house has played with this orange
+that house should hold that farm
+that house must hold a cow
+that house has to hold the goat
+that house cannot hold this sheep
+that house can hold that chicken
+a house holds a hen
+a house held the pig
+a house will hold this human
+a house has held that star
+a house should craft a planet
+a house must craft the robot
+a house has to craft this pea
+a house cannot craft that book
+a house can craft a shoe
+a house crafts the sock
+the house crafted this hook
+the house will craft that needle
+the house has crafted a yarn
+the house should dress the sunhat
+the house must dress this car
+the house has to dress that doll
+the farm cannot dress an apple
+the farm can dress the pear
+the farm dresses this orange
+the farm dressed that house
+this farm will dress a cow
+this farm has dressed the goat
+this farm should twirl around this sheep
+this farm must twirl around that chicken
+this farm has to twirl around a hen
+this farm cannot twirl around the pig
+this farm can twirl around this human
+this farm twirls around that star
+this farm twirled around a planet
+this farm will twirl around the robot
+that farm has twirled around this pea
+that farm should orbit that book
+that farm must orbit a shoe
+that farm has to orbit the sock
+that farm cannot orbit this hook
+that farm can orbit that needle
+that farm orbits a yarn
+that farm orbited the sunhat
+that farm will orbit this car
+that farm has orbited that doll
+a cow should multiply an apple
+a cow must multiply the pear
+a cow has to multiply this orange
+a cow cannot multiply that house
+a cow can multiply a farm
+a cow multiplies the goat
+a cow multiplied this sheep
+a cow will multiply that chicken
+a cow has multiplied a hen
+a cow should admire the pig
+the cow must admire this human
+the cow has to admire that star
+the cow cannot admire a planet
+the cow can admire the robot
+the cow admires this pea
+the cow admired that book
+the cow will admire a shoe
+the cow has admired the sock
+the cow should pull this hook
+the cow must pull that needle
+this cow has to pull a yarn
+this cow cannot pull the sunhat
+this cow can pull this car
+this cow pulls that doll
+this goat pulled an apple
+this goat will pull the pear
+this goat has pulled this orange
+this goat should write that house
+this goat must write a farm
+this goat has to write the cow
+that goat cannot write this sheep
+that goat can write that chicken
+that goat writes a hen
+that goat wrote the pig
+that goat will write this human
+that goat has written that star
+that goat should eat a planet
+that goat must eat the robot
+that goat has to eat this pea
+that goat cannot eat that book
+a goat can eat a shoe
+a goat eats the sock
+a goat ate this hook
+a goat will eat that needle
+a goat has eaten a yarn
+a goat should jump over the sunhat
+a goat must jump over this car
+a goat has to jump over that doll
+a sheep cannot jump over an apple
+a sheep can jump over the pear
+the sheep jumps over this orange
+the sheep jumped over that house
+the sheep will jump over a farm
+the sheep has jumped over the cow
+the sheep should drink this goat
+the sheep must drink that chicken
+the sheep has to drink a hen
+the sheep cannot drink the pig
+the sheep can drink this human
+the sheep drinks that star
+this sheep drank a planet
+this sheep will drink the robot
+this sheep has drank this pea
+this sheep should drown in that book
+this sheep must drown in a shoe
+this sheep has to drown in the sock
+this sheep cannot drown in this hook
+this sheep can drown in that needle
+this sheep drowns in a yarn
+this sheep drowned in the sunhat
+that sheep will drown in this car
+that sheep has drowned in that doll
+that chicken should swim across an apple
+that chicken must swim across the pear
+that chicken has to swim across this orange
+that chicken cannot swim across that house
+that chicken can swim across a farm
+that chicken swims across the cow
+that chicken swam across this goat
+that chicken will swim across that sheep
+a chicken has swum across a hen
+a chicken should dance with the pig
+a chicken must dance with this human
+a chicken has to dance with that star
+a chicken cannot dance with a planet
+a chicken can dance with the robot
+a chicken dances with this pea
+a chicken danced with that book
+a chicken will dance with a shoe
+a chicken has danced with the sock
+the chicken should throw this hook
+the chicken must throw that needle
+the chicken has to throw a yarn
+the chicken cannot throw the sunhat
+the chicken can throw this car
+the chicken throws that doll
+the hen threw an apple
+the hen will throw the pear
+the hen has thrown this orange
+the hen should paint that house
+this hen must paint a farm
+this hen has to paint the cow
+this hen cannot paint this goat
+this hen can paint that sheep
+this hen paints a chicken
+this hen painted the pig
+this hen will paint this human
+this hen has painted that star
+this hen should draw a planet
+this hen must draw the robot
+that hen has to draw this pea
+that hen cannot draw that book
+that hen can draw a shoe
+that hen draws the sock
+that hen drew this hook
+that hen will draw that needle
+that hen has drawn a yarn
+that hen should squeeze the sunhat
+that hen must squeeze this car
+that hen has to squeeze that doll
+a pig cannot squeeze an apple
+a pig can squeeze the pear
+a pig squeezes this orange
+a pig squeezed that house
+a pig will squeeze a farm
+a pig has squeezed the cow
+a pig should create this goat
+a pig must create that sheep
+a pig has to create a chicken
+a pig cannot create the hen
+the pig can create this human
+the pig creates that star
+the pig created a planet
+the pig will create the robot
+the pig has created this pea
+the pig should speak to that book
+the pig must speak to a shoe
+the pig has to speak to the sock
+the pig cannot speak to this hook
+the pig can speak to that needle
+this pig speaks to a yarn
+this pig spoke to the sunhat
+this pig will speak to this car
+this pig has spoken to that doll
+this human should play with an apple
+this human must play with the pear
+this human has to play with this orange
+this human cannot play with that house
+this human can play with a farm
+this human plays with the cow
+that human played with this goat
+that human will play with that sheep
+that human has played with a chicken
+that human should hold the hen
+that human must hold this pig
+that human has to hold that star
+that human cannot hold a planet
+that human can hold the robot
+that human holds this pea
+that human held that book
+a human will hold a shoe
+a human has held the sock
+a human should craft this hook
+a human must craft that needle
+a human has to craft a yarn
+a human cannot craft the sunhat
+a human can craft this car
+a human crafts that doll
+a star crafted an apple
+a star will craft the pear
+the star has crafted this orange
+the star should dress that house
+the star must dress a farm
+the star has to dress the cow
+the star cannot dress this goat
+the star can dress that sheep
+the star dresses a chicken
+the star dressed the hen
+the star will dress this pig
+the star has dressed that human
+this star should twirl around a planet
+this star must twirl around the robot
+this star has to twirl around this pea
+this star cannot twirl around that book
+this star can twirl around a shoe
+this star twirls around the sock
+this star twirled around this hook
+this star will twirl around that needle
+this star has twirled around a yarn
+this star should orbit the sunhat
+that star must orbit this car
+that star has to orbit that doll
+that planet cannot orbit an apple
+that planet can orbit the pear
+that planet orbits this orange
+that planet orbited that house
+that planet will orbit a farm
+that planet has orbited the cow
+that planet should multiply this goat
+that planet must multiply that sheep
+a planet has to multiply a chicken
+a planet cannot multiply the hen
+a planet can multiply this pig
+a planet multiplies that human
+a planet multiplied a star
+a planet will multiply the robot
+a planet has multiplied this pea
+a planet should admire that book
+a planet must admire a shoe
+a planet has to admire the sock
+the planet cannot admire this hook
+the planet can admire that needle
+the planet admires a yarn
+the planet admired the sunhat
+the planet will admire this car
+the planet has admired that doll
+the robot should pull an apple
+the robot must pull the pear
+the robot has to pull this orange
+the robot cannot pull that house
+this robot can pull a farm
+this robot pulls the cow
+this robot pulled this goat
+this robot will pull that sheep
+this robot has pulled a chicken
+this robot should write the hen
+this robot must write this pig
+this robot has to write that human
+this robot cannot write a star
+this robot can write the planet
+that robot writes this pea
+that robot wrote that book
+that robot will write a shoe
+that robot has written the sock
+that robot should eat this hook
+that robot must eat that needle
+that robot has to eat a yarn
+that robot cannot eat the sunhat
+that robot can eat this car
+that robot eats that doll
+a pea ate an apple
+a pea will eat the pear
+a pea has eaten this orange
+a pea should jump over that house
+a pea must jump over a farm
+a pea has to jump over the cow
+a pea cannot jump over this goat
+a pea can jump over that sheep
+a pea jumps over a chicken
+a pea jumped over the hen
+the pea will jump over this pig
+the pea has jumped over that human
+the pea should drink a star
+the pea must drink the planet
+the pea has to drink this robot
+the pea cannot drink that book
+the pea can drink a shoe
+the pea drinks the sock
+the pea drank this hook
+the pea will drink that needle
+this pea has drank a yarn
+this pea should drown in the sunhat
+this pea must drown in this car
+this pea has to drown in that doll
+this book cannot drown in an apple
+this book can drown in the pear
+this book drowns in this orange
+this book drowned in that house
+this book will drown in a farm
+this book has drowned in the cow
+that book should swim across this goat
+that book must swim across that sheep
+that book has to swim across a chicken
+that book cannot swim across the hen
+that book can swim across this pig
+that book swims across that human
+that book swam across a star
+that book will swim across the planet
+that book has swum across this robot
+that book should dance with that pea
+a book must dance with a shoe
+a book has to dance with the sock
+a book cannot dance with this hook
+a book can dance with that needle
+a book dances with a yarn
+a book danced with the sunhat
+a book will dance with this car
+a book has danced with that doll
+a shoe should throw an apple
+a shoe must throw the pear
+the shoe has to throw this orange
+the shoe cannot throw that house
+the shoe can throw a farm
+the shoe throws the cow
+the shoe threw this goat
+the shoe will throw that sheep
+the shoe has thrown a chicken
+the shoe should paint the hen
+the shoe must paint this pig
+the shoe has to paint that human
+this shoe cannot paint a star
+this shoe can paint the planet
+this shoe paints this robot
+this shoe painted that pea
+this shoe will paint a book
+this shoe has painted the sock
+this shoe should draw this hook
+this shoe must draw that needle
+this shoe has to draw a yarn
+this shoe cannot draw the sunhat
+that shoe can draw this car
+that shoe draws that doll
+that sock drew an apple
+that sock will draw the pear
+that sock has drawn this orange
+that sock should squeeze that house
+that sock must squeeze a farm
+that sock has to squeeze the cow
+that sock cannot squeeze this goat
+that sock can squeeze that sheep
+a sock squeezes a chicken
+a sock squeezed the hen
+a sock will squeeze this pig
+a sock has squeezed that human
+a sock should create a star
+a sock must create the planet
+a sock has to create this robot
+a sock cannot create that pea
+a sock can create a book
+a sock creates the shoe
+the sock created this hook
+the sock will create that needle
+the sock has created a yarn
+the sock should speak to the sunhat
+the sock must speak to this car
+the sock has to speak to that doll
+the hook cannot speak to an apple
+the hook can speak to the pear
+the hook speaks to this orange
+the hook spoke to that house
+this hook will speak to a farm
+this hook has spoken to the cow
+this hook should play with this goat
+this hook must play with that sheep
+this hook has to play with a chicken
+this hook cannot play with the hen
+this hook can play with this pig
+this hook plays with that human
+this hook played with a star
+this hook will play with the planet
+that hook has played with this robot
+that hook should hold that pea
+that hook must hold a book
+that hook has to hold the shoe
+that hook cannot hold this sock
+that hook can hold that needle
+that hook holds a yarn
+that hook held the sunhat
+that hook will hold this car
+that hook has held that doll
+a needle should craft an apple
+a needle must craft the pear
+a needle has to craft this orange
+a needle cannot craft that house
+a needle can craft a farm
+a needle crafts the cow
+a needle crafted this goat
+a needle will craft that sheep
+a needle has crafted a chicken
+a needle should dress the hen
+the needle must dress this pig
+the needle has to dress that human
+the needle cannot dress a star
+the needle can dress the planet
+the needle dresses this robot
+the needle dressed that pea
+the needle will dress a book
+the needle has dressed the shoe
+the needle should twirl around this sock
+the needle must twirl around that hook
+this needle has to twirl around a yarn
+this needle cannot twirl around the sunhat
+this needle can twirl around this car
+this needle twirls around that doll
+this yarn twirled around an apple
+this yarn will twirl around the pear
+this yarn has twirled around this orange
+this yarn should orbit that house
+this yarn must orbit a farm
+this yarn has to orbit the cow
+that yarn cannot orbit this goat
+that yarn can orbit that sheep
+that yarn orbits a chicken
+that yarn orbited the hen
+that yarn will orbit this pig
+that yarn has orbited that human
+that yarn should multiply a star
+that yarn must multiply the planet
+that yarn has to multiply this robot
+that yarn cannot multiply that pea
+a yarn can multiply a book
+a yarn multiplies the shoe
+a yarn multiplied this sock
+a yarn will multiply that hook
+a yarn has multiplied a needle
+a yarn should admire the sunhat
+a yarn must admire this car
+a yarn has to admire that doll
+a sunhat cannot admire an apple
+a sunhat can admire the pear
+the sunhat admires this orange
+the sunhat admired that house
+the sunhat will admire a farm
+the sunhat has admired the cow
+the sunhat should pull this goat
+the sunhat must pull that sheep
+the sunhat has to pull a chicken
+the sunhat cannot pull the hen
+the sunhat can pull this pig
+the sunhat pulls that human
+this sunhat pulled a star
+this sunhat will pull the planet
+this sunhat has pulled this robot
+this sunhat should write that pea
+this sunhat must write a book
+this sunhat has to write the shoe
+this sunhat cannot write this sock
+this sunhat can write that hook
+this sunhat writes a needle
+this sunhat wrote the yarn
+that sunhat will write this car
+that sunhat has written that doll
+that car should eat an apple
+that car must eat the pear
+that car has to eat this orange
+that car cannot eat that house
+that car can eat a farm
+that car eats the cow
+that car ate this goat
+that car will eat that sheep
+a car has eaten a chicken
+a car should jump over the hen
+a car must jump over this pig
+a car has to jump over that human
+a car cannot jump over a star
+a car can jump over the planet
+a car jumps over this robot
+a car jumped over that pea
+a car will jump over a book
+a car has jumped over the shoe
+the car should drink this sock
+the car must drink that hook
+the car has to drink a needle
+the car cannot drink the yarn
+the car can drink this sunhat
+the car drinks that doll
+the doll drank an apple
+the doll will drink the pear
+the doll has drank this orange
+the doll should drown in that house
+this doll must drown in a farm
+this doll has to drown in the cow
+this doll cannot drown in this goat
+this doll can drown in that sheep
+this doll drowns in a chicken
+this doll drowned in the hen
+this doll will drown in this pig
+this doll has drowned in that human
+this doll should swim across a star
+this doll must swim across the planet
+that doll has to swim across this robot
+that doll cannot swim across that pea
+that doll can swim across a book
+that doll swims across the shoe
+that doll swam across this sock
+that doll will swim across that hook
+that doll has swum across a needle
+that doll should dance with the yarn
+that doll must dance with this sunhat
+that doll has to dance with that car
+an apple cannot dance with a pear
+an apple can dance with the orange
+an apple dances with this house
+an apple danced with that farm
+an apple will dance with a cow
+an apple has danced with the goat
+an apple should throw this sheep
+an apple must throw that chicken
+an apple has to throw a hen
+an apple cannot throw the pig
+the apple can throw this human
+the apple throws that star
+the apple threw a planet
+the apple will throw the robot
+the apple has thrown this pea
+the apple should paint that book
+the apple must paint a shoe
+the apple has to paint the sock
+the apple cannot paint this hook
+the apple can paint that needle
+this apple paints a yarn
+this apple painted the sunhat
+this apple will paint this car
+this apple has painted that doll
+this pear should draw an apple
+this pear must draw the orange
+this pear has to draw this house
+this pear cannot draw that farm
+this pear can draw a cow
+this pear draws the goat
+that pear drew this sheep
+that pear will draw that chicken
+that pear has drawn a hen
+that pear should squeeze the pig
+that pear must squeeze this human
+that pear has to squeeze that star
+that pear cannot squeeze a planet
+that pear can squeeze the robot
+that pear squeezes this pea
+that pear squeezed that book
+a pear will squeeze a shoe
+a pear has squeezed the sock
+a pear should create this hook
+a pear must create that needle
+a pear has to create a yarn
+a pear cannot create the sunhat
+a pear can create this car
+a pear creates that doll
+an orange created an apple
+an orange will create the pear
+the orange has created this house
+the orange should speak to that farm
+the orange must speak to a cow
+the orange has to speak to the goat
+the orange cannot speak to this sheep
+the orange can speak to that chicken
+the orange speaks to a hen
+the orange spoke to the pig
+the orange will speak to this human
+the orange has spoken to that star
+this orange should play with a planet
+this orange must play with the robot
+this orange has to play with this pea
+this orange cannot play with that book
+this orange can play with a shoe
+this orange plays with the sock
+this orange played with this hook
+this orange will play with that needle
+this orange has played with a yarn
+this orange should hold the sunhat
+that orange must hold this car
+that orange has to hold that doll
+that house cannot hold an apple
+that house can hold the pear
+that house holds this orange
+that house held that farm
+that house will hold a cow
+that house has held the goat
+that house should craft this sheep
+that house must craft that chicken
+a house has to craft a hen
+a house cannot craft the pig
+a house can craft this human
+a house crafts that star
+a house crafted a planet
+a house will craft the robot
+a house has crafted this pea
+a house should dress that book
+a house must dress a shoe
+a house has to dress the sock
+the house cannot dress this hook
+the house can dress that needle
+the house dresses a yarn
+the house dressed the sunhat
+the house will dress this car
+the house has dressed that doll
+the farm should twirl around an apple
+the farm must twirl around the pear
+the farm has to twirl around this orange
+the farm cannot twirl around that house
+this farm can twirl around a cow
+this farm twirls around the goat
+this farm twirled around this sheep
+this farm will twirl around that chicken
+this farm has twirled around a hen
+this farm should orbit the pig
+this farm must orbit this human
+this farm has to orbit that star
+this farm cannot orbit a planet
+this farm can orbit the robot
+that farm orbits this pea
+that farm orbited that book
+that farm will orbit a shoe
+that farm has orbited the sock
+that farm should multiply this hook
+that farm must multiply that needle
+that farm has to multiply a yarn
+that farm cannot multiply the sunhat
+that farm can multiply this car
+that farm multiplies that doll
+a cow multiplied an apple
+a cow will multiply the pear
+a cow has multiplied this orange
+a cow should admire that house
+a cow must admire a farm
+a cow has to admire the goat
+a cow cannot admire this sheep
+a cow can admire that chicken
+a cow admires a hen
+a cow admired the pig
+the cow will admire this human
+the cow has admired that star
+the cow should pull a planet
+the cow must pull the robot
+the cow has to pull this pea
+the cow cannot pull that book
+the cow can pull a shoe
+the cow pulls the sock
+the cow pulled this hook
+the cow will pull that needle
+this cow has pulled a yarn
+this cow should write the sunhat
+this cow must write this car
+this cow has to write that doll
+this goat cannot write an apple
+this goat can write the pear
+this goat writes this orange
+this goat wrote that house
+this goat will write a farm
+this goat has written the cow
+that goat should eat this sheep
+that goat must eat that chicken
+that goat has to eat a hen
+that goat cannot eat the pig
+that goat can eat this human
+that goat eats that star
+that goat ate a planet
+that goat will eat the robot
+that goat has eaten this pea
+that goat should jump over that book
+a goat must jump over a shoe
+a goat has to jump over the sock
+a goat cannot jump over this hook
+a goat can jump over that needle
+a goat jumps over a yarn
+a goat jumped over the sunhat
+a goat will jump over this car
+a goat has jumped over that doll
+a sheep should drink an apple
+a sheep must drink the pear
+the sheep has to drink this orange
+the sheep cannot drink that house
+the sheep can drink a farm
+the sheep drinks the cow
+the sheep drank this goat
+the sheep will drink that chicken
+the sheep has drank a hen
+the sheep should drown in the pig
+the sheep must drown in this human
+the sheep has to drown in that star
+this sheep cannot drown in a planet
+this sheep can drown in the robot
+this sheep drowns in this pea
+this sheep drowned in that book
+this sheep will drown in a shoe
+this sheep has drowned in the sock
+this sheep should swim across this hook
+this sheep must swim across that needle
+this sheep has to swim across a yarn
+this sheep cannot swim across the sunhat
+that sheep can swim across this car
+that sheep swims across that doll
+that chicken swam across an apple
+that chicken will swim across the pear
+that chicken has swum across this orange
+that chicken should dance with that house
+that chicken must dance with a farm
+that chicken has to dance with the cow
+that chicken cannot dance with this goat
+that chicken can dance with that sheep
