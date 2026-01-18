@@ -1,23 +1,33 @@
-def calculate_distinct_n(file_path):
+def evaluate_generation(corpus, output):
+    def get_tokens(path):
+        with open(path, "r") as f:
+            return f.read().lower().split()
 
-    with open("ffinal/markoutput.txt", "r") as f:
-        tokens = f.read().lower().split()
+    corpus_tokens = get_tokens(corpus)
+    output_tokens = get_tokens(output)
 
-    tokens_count = len(tokens)
+    corpus_vocab = set(corpus_tokens)
+    output_vocab = set(output_tokens)
 
-    unigrams = tokens
-    distinct_1 = len(set(unigrams)) / len(unigrams)
+    # unigrams
+    distinct_1 = len(output_vocab) / len(output_tokens)
 
-    bigrams = [f"{tokens[i]} {tokens[i + 1]}" for i in range(len(tokens) - 1)]
-    
-    if len(bigrams) > 0:
-        distinct_2 = len(set(bigrams)) / len(bigrams)
-    else:
-        distinct_2 = 0
+    # a comparison to the corpus
+    # AKA how many of the words from the corpus appeared in the output?
+    coverage = len(output_vocab.intersection(corpus_vocab)) / len(corpus_vocab)
 
-    print(f"total tokens = {tokens_count}")
-    print(f"unigrams = {round(distinct_1, 4)}")
-    print(f"bigrams = {round(distinct_2, 4)}")
+    # novelty
+    # or, perhaps, how many 'original' words have been generated
+    novel_words = len(output_vocab - corpus_vocab)
 
-results = calculate_distinct_n("ffinal/corpus.txt")
+    return {
+        "unigrams": round(distinct_1, 4),
+        "corpus-based comparison": f"{round(coverage * 100, 2)}%",
+        "novelty number": novel_words
+    }
+
+# pick one output file to de-comment & then run the code
+
+# results = evaluate_generation("corpus.txt", "markoutput.txt")
+# results = evaluate_generation("corpus.txt", "llm_out.txt")
 print(results)

@@ -1,9 +1,7 @@
 import markovify
 import random
 
-random.seed(64) # for reproducibility
-
-with open("/Users/tazzie/Desktop/m26ee/ffinal/corpus.txt", "r") as corpus:
+with open("ee/corpus.txt", "r") as corpus:
    text = corpus.read(); 
 
 print(len(text))
@@ -31,6 +29,6 @@ markoutput = generate_lines(100)
 for line in markoutput:
     print(line)
 
-with open("/Users/tazzie/Desktop/m26ee/ffinal/markoutput.txt", "w") as file:
+with open("ee/markoutput.txt", "w") as file:
     for line in markoutput:
         file.write(line + "\n")
