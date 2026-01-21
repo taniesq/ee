@@ -1,47 +1,55 @@
 def evaluate_generation(corpus, output):
-    def get_tokens(path):
-        with open(path, "r") as f:
-            return f.read().lower().split()
-        
-    def get_bigrams(tokens):
-        return [f"{tokens[i]} {tokens[i+1]}" for i in range(len(tokens)-1)]
-    
-    corpus_tokens = get_tokens(corpus)
-    output_tokens = get_tokens(output)
-
-    corpus_vocab = set(corpus_tokens)
-    output_vocab = set(output_tokens)
-    
-    corpus_bigram_set = set(get_bigrams(corpus_tokens))
-    output_bigram_set = set(get_bigrams(output_tokens))
+    # load and tokenize both files
+    with open(corpus, "r") as f:
+        c_tokens = f.read().lower().split()
+    with open(output, "r") as f:
+        o_tokens = f.read().lower().split()
 
     # unigrams
-    distinct_1 = len(output_vocab) / len(output_tokens)
-    uni_coverage = len(output_vocab.intersection(corpus_vocab)) / len(corpus_vocab)
-    uni_novelty = len(output_vocab - corpus_vocab)
+    c_uni = set(c_tokens)
+    o_uni = set(o_tokens)
+    
+    uni_distinct = len(o_uni) / len(o_tokens) 
+    # how many words from the corpus appeared in the output:
+    uni_coverage = len(o_uni.intersection(c_uni)) / len(c_uni)
+    # how many original words have been generated:
+    uni_novelty = len(o_uni - c_uni)
 
     # bigrams
-    distinct_2 = len(output_bigram_set) / (len(output_tokens) - 1) if len(output_tokens) > 1 else 0
+    c_bi = set(f"{c_tokens[i]} {c_tokens[i+1]}" for i in range(len(c_tokens)-1))
+    o_bi = set(f"{o_tokens[i]} {o_tokens[i+1]}" for i in range(len(o_tokens)-1))
+    
+    bi_total = len(o_tokens) - 1
+    bi_distinct = len(o_bi) / bi_total 
+    bi_coverage = len(o_bi.intersection(c_bi)) / len(c_bi) 
+    bi_novelty = len(o_bi - c_bi)
 
-    # a comparison to the corpus
-    # AKA how many of the words from the corpus appeared in the output?
-    bi_coverage = len(output_bigram_set.intersection(corpus_bigram_set)) / len(corpus_bigram_set)
-
-    # novelty
-    # or, perhaps, how many 'original' words have been generated
-    novel_bigrams = len(output_bigram_set - corpus_bigram_set)
+    # trigrams
+    c_tri = set(f"{c_tokens[i]} {c_tokens[i+1]} {c_tokens[i+2]}" for i in range(len(c_tokens)-2))
+    o_tri = set(f"{o_tokens[i]} {o_tokens[i+1]} {o_tokens[i+2]}" for i in range(len(o_tokens)-2))
+    
+    tri_total = len(o_tokens) - 2
+    tri_distinct = len(o_tri) / tri_total
+    tri_coverage = len(o_tri.intersection(c_tri)) / len(c_tri)
+    tri_novelty = len(o_tri - c_tri)
 
     return {
-        "unigrams": round(distinct_1, 4),
+        "unigrams": round(uni_distinct, 4),
         "unigram coverage": f"{round(uni_coverage * 100, 2)}%",
         "unigram novelty": uni_novelty,
-        "bigrams": round(distinct_2, 4),
+        
+        "bigrams": round(bi_distinct, 4),
         "bigram coverage": f"{round(bi_coverage * 100, 2)}%",
-        "bigram novelty": novel_bigrams
+        "bigram novelty": bi_novelty,
+        
+        "trigrams": round(tri_distinct, 4),
+        "trigram coverage": f"{round(tri_coverage * 100, 2)}%",
+        "trigram novelty": tri_novelty
     }
 
 # pick one output file to de-comment & then run the code
 
 # results = evaluate_generation("corpus.txt", "markoutput.txt")
 # results = evaluate_generation("corpus.txt", "llm_out.txt")
+
 print(results)
